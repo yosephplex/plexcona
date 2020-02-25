@@ -1,0 +1,23 @@
+
+
+
+#EXTINF:-1,CANALES LATINOS
+#EXTSIZE: big
+#EXTBG: https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSHb9JdZw0k20CN4l22yi9er1r55MalkVqoOZ9v61FaR6x_iMwY
+https://raw.githubusercontent.com/yosephplex/plexcona/master/regionales.m3u
+
+#EXTINF:-1,ESPAÑA
+#EXTSIZE: big
+#EXTBG: https://media.giphy.com/media/5RJHSASNSfmP6/giphy.gif
+https://raw.githubusercontent.com/yosephplex/plexcona/master/espa%C3%B1a.m3u
+
+#EXTINF:-1,PREMIUM LATINO
+#EXTSIZE: BIG
+#EXTBG: https://pa1.narvii.com/6579/9b9bdfa0e937b1da2c00b4485174c6bb172de4c1_00.gif
+https://raw.githubusercontent.com/yosephplex/plexcona/master/premiumlatam.m3u
+
+
+#EXTINF:-1,PREMIUM LATINO 2-CON CDF
+#EXTSIZE: big
+#EXTBG: https://upload.wikimedia.org/wikipedia/commons/1/12/CDF-Turner_LOGO_2019.jpg
+https://raw.githubusercontent.com/yosephplex/plexcona/324e55dcc3a11f8a50e2abcfc7e6c786acf7a7b2/premiumlatam2.m3u
