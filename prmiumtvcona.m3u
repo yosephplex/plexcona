@@ -1,4 +1,17 @@
 
+#EXTINF:-1,DEPORTES Y PREMIUM
+#EXTSIZE: big
+#EXTBG: https://37.media.tumblr.com/9d1685372a9be266b1707c5cc5116db9/tumblr_n3fz7s2jlR1ru2hx7o1_250.gif
+https://raw.githubusercontent.com/yosephplex/plexcona/master/DEPORTES.M3
+
+
+
+
+
+#EXTINF:-1,PREMIUM LATINO
+#EXTSIZE: BIG
+#EXTBG: https://pa1.narvii.com/6579/9b9bdfa0e937b1da2c00b4485174c6bb172de4c1_00.gif
+https://raw.githubusercontent.com/yosephplex/plexcona/master/premiumlatam.m3u
 
 
 #EXTINF:-1,CANALES LATINOS
@@ -10,12 +23,6 @@ https://raw.githubusercontent.com/yosephplex/plexcona/master/regionales.m3u
 #EXTSIZE: big
 #EXTBG: https://media.giphy.com/media/5RJHSASNSfmP6/giphy.gif
 https://raw.githubusercontent.com/yosephplex/plexcona/master/espa%C3%B1a.m3u
-
-#EXTINF:-1,PREMIUM LATINO
-#EXTSIZE: BIG
-#EXTBG: https://pa1.narvii.com/6579/9b9bdfa0e937b1da2c00b4485174c6bb172de4c1_00.gif
-https://raw.githubusercontent.com/yosephplex/plexcona/master/premiumlatam.m3u
-
 
 #EXTINF:-1,PREMIUM LATINO 2-CON CDF
 #EXTSIZE: big
