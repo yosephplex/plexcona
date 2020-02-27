@@ -6,10 +6,7 @@
 #EXTBG: https://media.tenor.com/images/f6757b2a9e3938647780f7064bdb8121/tenor.gif
 https://dl.dropboxusercontent.com/s/umvz944jhed47se/mexico%20premium.m3u?dl=0
 
-#EXTINF:-1,PREMIUM
-#EXTSIZE: big
-#EXTBG: https://www.iptv-gratuits.com/wp-content/uploads/2018/06/usa-tv-m3u-265x198.gif
-https://dl.dropboxusercontent.com/s/7q7tj97wcbbbby4/LISTA%20MARTA.m3u
+
 
 
 #EXTINF:-1,PREMIUM
@@ -31,3 +28,24 @@ https://raw.githubusercontent.com/yosephplex/plexcona/master/espa%C3%B1a.m3u
 #EXTSIZE: big
 #EXTBG: https://upload.wikimedia.org/wikipedia/commons/1/12/CDF-Turner_LOGO_2019.jpg
 https://raw.githubusercontent.com/yosephplex/plexcona/master/DEPORTES.M3U
+
+#EXTINF:-1,24 x 7
+#EXTSIZE: big
+#EXTBG: https://thumbs.gfycat.com/BriskAdorableDormouse-max-1mb.gif
+https://raw.githubusercontent.com/yosephplex/plexcona/master/24%20X%207.M3U
+
+#EXTINF:-1,TOTALPLAY
+#EXTSIZE: big
+#EXTBG: https://i.pinimg.com/originals/52/c7/28/52c728c691655db55a8ca926b89fe22b.gif
+https://raw.githubusercontent.com/yosephplex/plexcona/master/TOTALPLAY.M3I
+
+#EXTINF:-1,PREMIUM MUNDO
+#EXTSIZE: big
+#EXTBG: https://www.iptv-gratuits.com/wp-content/uploads/2018/06/usa-tv-m3u-265x198.gif
+https://dl.dropboxusercontent.com/s/7q7tj97wcbbbby4/LISTA%20MARTA.m3u
+
+
+#EXTINF:-1,PORNO PREMIUM
+#EXTSIZE: MEDIUM
+#EXTBG: https://66.media.tumblr.com/f6ce3c0c546a606c665b4a1ef6ba331d/tumblr_nfwyt5tuVO1tin581o1_250.gifv
+https://raw.githubusercontent.com/yosephplex/plexcona/master/PORNO%20PREMIUM.M3U
