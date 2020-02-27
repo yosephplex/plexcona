@@ -1,18 +1,21 @@
 
-#EXTINF:-1,DEPORTES Y PREMIUM
+
+
+#EXTINF:-1,PREMIUM MEXICO
 #EXTSIZE: big
-#EXTBG: https://37.media.tumblr.com/9d1685372a9be266b1707c5cc5116db9/tumblr_n3fz7s2jlR1ru2hx7o1_250.gif
-https://raw.githubusercontent.com/yosephplex/plexcona/master/DEPORTES.M3
+#EXTBG: https://media.tenor.com/images/f6757b2a9e3938647780f7064bdb8121/tenor.gif
+https://dl.dropboxusercontent.com/s/umvz944jhed47se/mexico%20premium.m3u?dl=0
+
+#EXTINF:-1,PREMIUM
+#EXTSIZE: big
+#EXTBG: https://www.iptv-gratuits.com/wp-content/uploads/2018/06/usa-tv-m3u-265x198.gif
+https://dl.dropboxusercontent.com/s/7q7tj97wcbbbby4/LISTA%20MARTA.m3u
 
 
-
-
-
-#EXTINF:-1,PREMIUM LATINO
-#EXTSIZE: BIG
-#EXTBG: https://pa1.narvii.com/6579/9b9bdfa0e937b1da2c00b4485174c6bb172de4c1_00.gif
-https://raw.githubusercontent.com/yosephplex/plexcona/master/premiumlatam.m3u
-
+#EXTINF:-1,PREMIUM
+#EXTSIZE: big
+#EXTBG: https://i.gifer.com/QEgx.gif
+https://raw.githubusercontent.com/yosephplex/plexcona/master/POREMIUM%20LATINOS.M3U
 
 #EXTINF:-1,CANALES LATINOS
 #EXTSIZE: big
@@ -24,7 +27,7 @@ https://raw.githubusercontent.com/yosephplex/plexcona/master/regionales.m3u
 #EXTBG: https://media.giphy.com/media/5RJHSASNSfmP6/giphy.gif
 https://raw.githubusercontent.com/yosephplex/plexcona/master/espa%C3%B1a.m3u
 
-#EXTINF:-1,PREMIUM LATINO 2-CON CDF
+#EXTINF:-1,DEPORTES EVENTOS -CDF
 #EXTSIZE: big
 #EXTBG: https://upload.wikimedia.org/wikipedia/commons/1/12/CDF-Turner_LOGO_2019.jpg
-https://raw.githubusercontent.com/yosephplex/plexcona/324e55dcc3a11f8a50e2abcfc7e6c786acf7a7b2/premiumlatam2.m3u
+https://raw.githubusercontent.com/yosephplex/plexcona/master/DEPORTES.M3U
