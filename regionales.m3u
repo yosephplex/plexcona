@@ -29,10 +29,7 @@ http://live.gvstream.net:1935/e-tv-video/play.stream/playlist.m3u8
 https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master.m3u8
 #EXTINF:-1 group-title="MEXICO",Aprende TV
 https://srvstream01.televisioneducativa.gob.mx/hls/aprendetv.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="MEXICO",Azteca 7
-http://aztkhlslive-i.akamaihd.net/hls/live/572724/az7/master.m3u8
-#EXTINF:-1 group-title="MEXICO",Azteca Uno
-http://aztkhlslive2-i.akamaihd.net/hls/live/629424/azuno/master.m3u8
+
 #EXTINF:-1 group-title="MEXICO",Canal 4 Saltillo
 http://162.241.190.126:1935/live/canal4/playlist.m3u8
 #EXTINF:-1 group-title="MEXICO",Canal 6 Morelia
