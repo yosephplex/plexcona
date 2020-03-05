@@ -57,6 +57,22 @@ http://ultraplay.org:80/UPSPORT/UPSPORT/68181
 #EXTINF:-1 tvg-id="" tvg-name="7DTV | TYC SPORTS" tvg-logo="http://74.208.136.70/directv_play/logo/TyC_Sports.png" group-title="SERVER 7DTV",7DTV | TYC SPORTS
 http://ultraplay.org:80/UPSPORT/UPSPORT/68182
 
+
+#EXTINF:-1 tvg-id="" tvg-name="BOLIVIA | Tigo Sports 1" tvg-logo="" group-title="BOLIVIA",BOLIVIA | Tigo Sports 1
+http://ultraplay.org:80/UPSPORT/UPSPORT/1707
+#EXTINF:-1 tvg-id="" tvg-name="BOLIVIA | Tigo Sports 1 HD" tvg-logo="" group-title="BOLIVIA",BOLIVIA | Tigo Sports 1 HD
+http://ultraplay.org:80/UPSPORT/UPSPORT/1710
+#EXTINF:-1 tvg-id="" tvg-name="BOLIVIA | Tigo Sports 2" tvg-logo="" group-title="BOLIVIA",BOLIVIA | Tigo Sports 2
+http://ultraplay.org:80/UPSPORT/UPSPORT/1708
+#EXTINF:-1 tvg-id="" tvg-name="BOLIVIA | Tigo Sports 2 HD" tvg-logo="" group-title="BOLIVIA",BOLIVIA | Tigo Sports 2 HD
+http://ultraplay.org:80/UPSPORT/UPSPORT/1711
+#EXTINF:-1 tvg-id="" tvg-name="BOLIVIA | Tigo Sports 3" tvg-logo="" group-title="BOLIVIA",BOLIVIA | Tigo Sports 3
+http://ultraplay.org:80/UPSPORT/UPSPORT/1709
+#EXTINF:-1 tvg-id="" tvg-name="BOLIVIA | Tigo Sports 3 HD" tvg-logo="" group-title="BOLIVIA",BOLIVIA | Tigo Sports 3 HD
+http://ultraplay.org:80/UPSPORT/UPSPORT/1712
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="HD V2 | Espn" tvg-logo="" group-title="ALTA DEFINICION",HD V2 | Espn
 http://ultraplay.org:80/UPSPORT/UPSPORT/66378
 #EXTINF:-1 tvg-id="" tvg-name="HD V2 | Espn 2" tvg-logo="" group-title="ALTA DEFINICION",HD V2 | Espn 2
