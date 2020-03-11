@@ -6,7 +6,10 @@
 https://dl.dropboxusercontent.com/s/umvz944jhed47se/mexico%20premium.m3u?dl=0
 
 
-
+#EXTINF:-1,TOTAL PLAY POCOS MEGAS
+#EXTSIZE: big
+#EXTBG: https://i.pinimg.com/originals/52/c7/28/52c728c691655db55a8ca926b89fe22b.gif
+https://raw.githubusercontent.com/yosephplex/plexcona/master/TOTALPLAYSD.M3U
 
 #EXTINF:-1,PREMIUM
 #EXTSIZE: big
