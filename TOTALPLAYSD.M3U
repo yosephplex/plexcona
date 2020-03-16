@@ -19,10 +19,7 @@ http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/129.ts
 http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/148.ts
 #EXTINF:-1 tvg-id="" tvg-name="INTER ultra banda" tvg-logo="" group-title="TODOS",INTER ultra banda
 http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/149.ts
-#EXTINF:-1 tvg-id="" tvg-name="IFN USA MLB-NETWORK" tvg-logo="" group-title="TODOS",IFN USA MLB-NETWORK
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/164.ts
-#EXTINF:-1 tvg-id="" tvg-name="JuanR USA TENNIS CHANEL" tvg-logo="" group-title="TODOS",JuanR USA TENNIS CHANEL
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/165.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES UFC TV" tvg-logo="" group-title="TODOS",DEPORTES UFC TV
 http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/166.ts
 #EXTINF:-1 tvg-id="" tvg-name="INF TNT SERIES" tvg-logo="" group-title="TODOS",INF TNT SERIES
@@ -35,18 +32,7 @@ http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/357.ts
 http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/358.ts
 #EXTINF:-1 tvg-id="" tvg-name="INF HBO 2" tvg-logo="" group-title="TODOS",INF HBO 2
 http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/359.ts
-#EXTINF:-1 tvg-id="" tvg-name="JuanR Telemundo Miami" tvg-logo="" group-title="TODOS",JuanR Telemundo Miami
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/361.ts
-#EXTINF:-1 tvg-id="" tvg-name="JuanR Telemundo Texas" tvg-logo="" group-title="TODOS",JuanR Telemundo Texas
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/362.ts
-#EXTINF:-1 tvg-id="" tvg-name="JuanR USA NBC Universo" tvg-logo="" group-title="TODOS",JuanR USA NBC Universo
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/364.ts
-#EXTINF:-1 tvg-id="" tvg-name="IFN PR | Mega TV" tvg-logo="" group-title="TODOS",IFN PR | Mega TV
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/365.ts
-#EXTINF:-1 tvg-id="" tvg-name="JuanR PR | Punto 2" tvg-logo="" group-title="TODOS",JuanR PR | Punto 2
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/366.ts
-#EXTINF:-1 tvg-id="" tvg-name="JuanR PR | WIPR" tvg-logo="" group-title="TODOS",JuanR PR | WIPR
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/367.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="IFN PR | WAPA 2" tvg-logo="" group-title="TODOS",IFN PR | WAPA 2
 http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/368.ts
 #EXTINF:-1 tvg-id="" tvg-name="IFN PR | Telemundo" tvg-logo="" group-title="TODOS",IFN PR | Telemundo
@@ -55,14 +41,12 @@ http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/369.ts
 http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/370.ts
 #EXTINF:-1 tvg-id="" tvg-name="INF PR | Wapa" tvg-logo="" group-title="TODOS",INF PR | Wapa
 http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/371.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES Torostv" tvg-logo="" group-title="TODOS",ES Torostv
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/377.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="JuanR usa outdoor" tvg-logo="" group-title="TODOS",JuanR usa outdoor
 http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/380.ts
 #EXTINF:-1 tvg-id="" tvg-name="rafa arg espn 2" tvg-logo="" group-title="TODOS",rafa arg espn 2
 http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/387.ts
-#EXTINF:-1 tvg-id="" tvg-name="IFN unimas" tvg-logo="" group-title="TODOS",IFN unimas
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/391.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="JuanR deportes fox dep" tvg-logo="" group-title="TODOS",JuanR deportes fox dep
 http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/392.ts
 #EXTINF:-1 tvg-id="" tvg-name="rafa mx animal planet" tvg-logo="" group-title="TODOS",rafa mx animal planet
