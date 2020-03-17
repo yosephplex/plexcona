@@ -15,10 +15,7 @@ http://tv.pstore-tv.com:8080/live/castillo/demo/3770.ts
 http://tv.pstore-tv.com:8080/live/castillo/demo/9755.ts
 #EXTINF:-1,BOLIVIA | TIGO SPORTS 3.
 http://tv.pstore-tv.com:8080/live/castillo/demo/9756.ts
-#EXTINF:-1,PARAGUAY | TIGO SPORTS PARAGUAY HD
-http://tv.pstore-tv.com:8080/live/castillo/demo/27296.ts
-#EXTINF:-1,PARAGUAY | TIGO SPORTS + PARAGUAY HD
-http://tv.pstore-tv.com:8080/live/castillo/demo/27297.ts
+
 #EXTINF:-1,DEP| TNT SPORTS HD (A)
 http://tv.pstore-tv.com:8080/live/castillo/demo/3111.ts
 #EXTINF:-1,DEP| TYC SPORTS HD (A)
