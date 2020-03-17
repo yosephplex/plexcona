@@ -45,8 +45,7 @@ http://tv.pstore-tv.com:8080/live/castillo/demo/3122.ts
 http://tv.pstore-tv.com:8080/live/castillo/demo/1365.ts
 
 
-#EXTINF:-1,DEP| GOL TV ECUADOR
-http://tv.pstore-tv.com:8080/live/castillo/demo/552.ts
+
 #EXTINF:-1,DEP| Directv Sports 2 FHD Arg
 http://tv.pstore-tv.com:8080/live/castillo/demo/559.ts
 #EXTINF:-1,DEP| Directv Sports 2 HD Arg
