@@ -1,70 +1,86 @@
-#EXTINF:-1,CUL| DISCOVERY TURBO (EC)
-http://tv.pstore-tv.com:8080/live/castillo/demo/27562.ts
-#EXTINF:-1,CUL| HISTORY CH. SUR FHD (EC)
-http://tv.pstore-tv.com:8080/live/castillo/demo/27563.ts
-#EXTINF:-1,CUL| HISTORY CH. SUR  (EC)
-http://tv.pstore-tv.com:8080/live/castillo/demo/27564.ts
-#EXTINF:-1,CUL| INVESTIGATION DISCOVERY SUR (EC)
-http://tv.pstore-tv.com:8080/live/castillo/demo/27565.ts
-#EXTINF:-1,CUL| DISCOVERY I. SUR FHD (EC)
-http://tv.pstore-tv.com:8080/live/castillo/demo/27566.ts
-#EXTINF:-1,CUL| MAS CHIC  (EC)
-http://tv.pstore-tv.com:8080/live/castillo/demo/27567.ts
-#EXTINF:-1,CUL| ANIMAL PLANET MX (EC)
-http://tv.pstore-tv.com:8080/live/castillo/demo/27568.ts
-#EXTINF:-1,CUL| ANIMAL PLANET FHD (EC)
-http://tv.pstore-tv.com:8080/live/castillo/demo/27569.ts
-#EXTINF:-1,CUL| BBC WORLD NEWS MX (EC)
-http://tv.pstore-tv.com:8080/live/castillo/demo/27570.ts
-#EXTINF:-1,CUL| CNN INTERNATIONAL (EC)
-http://tv.pstore-tv.com:8080/live/castillo/demo/27571.ts
-#EXTINF:-1,CUL| CNN ESPAÑOL (EC)
-http://tv.pstore-tv.com:8080/live/castillo/demo/27572.ts
-#EXTINF:-1,CUL| DISCOVERY CH. MX (EC)
-http://tv.pstore-tv.com:8080/live/castillo/demo/27573.ts
-#EXTINF:-1,CUL| DISCOVERY CH. MX FHD (EC)
-http://tv.pstore-tv.com:8080/live/castillo/demo/27574.ts
-#EXTINF:-1,CUL| DISCOVERY CH. SUR FHD (EC)
-http://tv.pstore-tv.com:8080/live/castillo/demo/27575.ts
-#EXTINF:-1,CUL| DISCOVERY CH. SUR (EC)
-http://tv.pstore-tv.com:8080/live/castillo/demo/27576.ts
-#EXTINF:-1,CUL| DISCOVERY CIVILIZATION MX (EC)
-http://tv.pstore-tv.com:8080/live/castillo/demo/27577.ts
-#EXTINF:-1,CUL| DISCOVERY CIVILIZATION MX HD (EC)
-http://tv.pstore-tv.com:8080/live/castillo/demo/27578.ts
-#EXTINF:-1,CUL| DISCOVERY H&H MX FHD (EC)
-http://tv.pstore-tv.com:8080/live/castillo/demo/27579.ts
-#EXTINF:-1,CUL| DISCOVERY H&H SUR (EC)
-http://tv.pstore-tv.com:8080/live/castillo/demo/27580.ts
-#EXTINF:-1,CUL| DISCOVERY SCIENCE (EC)
-http://tv.pstore-tv.com:8080/live/castillo/demo/27581.ts
-#EXTINF:-1,CUL| DISCOVERY SCIENCE FHD (EC)
-http://tv.pstore-tv.com:8080/live/castillo/demo/27582.ts
-#EXTINF:-1,CUL| DISCOVERY TURBO MX FHD (EC)
-http://tv.pstore-tv.com:8080/live/castillo/demo/27583.ts
-#EXTINF:-1,CUL| DISCOVERY THEATER  MX FHD (EC)
-http://tv.pstore-tv.com:8080/live/castillo/demo/27584.ts
-#EXTINF:-1,CUL| DISCOVERY WORLD (EC)
-http://tv.pstore-tv.com:8080/live/castillo/demo/27585.ts
-#EXTINF:-1,CUL| DISCOVERY WORLD MX FHD (EC)
-http://tv.pstore-tv.com:8080/live/castillo/demo/27586.ts
-#EXTINF:-1,CUL| EL GOURMET SUR (EC)
-http://tv.pstore-tv.com:8080/live/castillo/demo/27587.ts
-#EXTINF:-1,CUL| EL GOURMET MX FHD (EC)
-http://tv.pstore-tv.com:8080/live/castillo/demo/27588.ts
-#EXTINF:-1,CUL| HISTORY CHANNEL MX FHD (EC)
-http://tv.pstore-tv.com:8080/live/castillo/demo/27589.ts
-#EXTINF:-1,CUL| DISCOVERY I. MX FHD (EC)
-http://tv.pstore-tv.com:8080/live/castillo/demo/27590.ts
-#EXTINF:-1,CUL| NATGEO SUR HD (EC)
-http://tv.pstore-tv.com:8080/live/castillo/demo/27591.ts
-#EXTINF:-1,CUL| NATGEO MX (EC)
-http://tv.pstore-tv.com:8080/live/castillo/demo/27592.ts
-#EXTINF:-1,CUL| NATGEO WILD SUR HD (EC)
-http://tv.pstore-tv.com:8080/live/castillo/demo/27593.ts
-#EXTINF:-1,CUL| NATGEO WILD FHD (EC)
-http://tv.pstore-tv.com:8080/live/castillo/demo/27594.ts
-#EXTINF:-1,CUL| TLC FHD (EC)
-http://tv.pstore-tv.com:8080/live/castillo/demo/27595.ts
-#EXTINF:-1,CUL| TLC (EC)
-http://tv.pstore-tv.com:8080/live/castillo/demo/27596.ts
+#EXTINF:-1,MX | Animal Planet HD | Cultural
+http://mylatinotv.com:8080/nousiptv/nousiptv345/81917
+#EXTINF:-1,MX | Animal Planet SD | Cultural
+http://mylatinotv.com:8080/nousiptv/nousiptv345/81714
+#EXTINF:-1,LA | Animal Planet | Cultural
+http://mylatinotv.com:8080/nousiptv/nousiptv345/19421
+#EXTINF:-1,MX | Discovery Channel HD | Cultural
+http://mylatinotv.com:8080/nousiptv/nousiptv345/81882
+#EXTINF:-1,MX | Discovery Channel SD | Cultural
+http://mylatinotv.com:8080/nousiptv/nousiptv345/81715
+#EXTINF:-1,LA | Discovery Channel | Cultural
+http://mylatinotv.com:8080/nousiptv/nousiptv345/19398
+#EXTINF:-1,MX | Discovery Civilization HD | Cultural
+http://mylatinotv.com:8080/nousiptv/nousiptv345/81877
+#EXTINF:-1,MX | Discovery Civilization SD | Cultural
+http://mylatinotv.com:8080/nousiptv/nousiptv345/81709
+#EXTINF:-1,MX | Discovery H&H HD | Cultural
+http://mylatinotv.com:8080/nousiptv/nousiptv345/81713
+#EXTINF:-1,MX | Discovery H&H SD | Cultural
+http://mylatinotv.com:8080/nousiptv/nousiptv345/19397
+#EXTINF:-1,MX | Investigation Discovery SD | Cultural
+http://mylatinotv.com:8080/nousiptv/nousiptv345/81748
+#EXTINF:-1,MX | Investigation Discovery HD | Cultural
+http://mylatinotv.com:8080/nousiptv/nousiptv345/81908
+#EXTINF:-1,MX | Investigation Discovery HD | Cultural
+http://mylatinotv.com:8080/nousiptv/nousiptv345/81918
+#EXTINF:-1,LA | Investigation Discovery | Cultural
+http://mylatinotv.com:8080/nousiptv/nousiptv345/19442
+#EXTINF:-1,MX | Discovery Science HD | Cultural
+http://mylatinotv.com:8080/nousiptv/nousiptv345/81878
+#EXTINF:-1,MX | Discovery SCI SD | Cultural
+http://mylatinotv.com:8080/nousiptv/nousiptv345/81710
+#EXTINF:-1,LA | Discovery Science | Cultural
+http://mylatinotv.com:8080/nousiptv/nousiptv345/19332
+#EXTINF:-1,MX | Discovery Theater HD | Cultural
+http://mylatinotv.com:8080/nousiptv/nousiptv345/81886
+#EXTINF:-1,MX | Discovery Theater SD | Cultural
+http://mylatinotv.com:8080/nousiptv/nousiptv345/81719
+#EXTINF:-1,LA | Discovery Theater | Cultural
+http://mylatinotv.com:8080/nousiptv/nousiptv345/19356
+#EXTINF:-1,MX | Discovery Turbo HD | Cultural
+http://mylatinotv.com:8080/nousiptv/nousiptv345/81916
+#EXTINF:-1,MX | Discovery TURBO SD | Cultural
+http://mylatinotv.com:8080/nousiptv/nousiptv345/81746
+#EXTINF:-1,LA | Discovery Turbo | Cultural
+http://mylatinotv.com:8080/nousiptv/nousiptv345/19330
+#EXTINF:-1,MX | Discovery World HD | Cultural
+http://mylatinotv.com:8080/nousiptv/nousiptv345/81883
+#EXTINF:-1,MX | Discovery World SD | Cultural
+http://mylatinotv.com:8080/nousiptv/nousiptv345/81716
+#EXTINF:-1,LA | Discovery World | Cultural
+http://mylatinotv.com:8080/nousiptv/nousiptv345/19408
+#EXTINF:-1,LA | H2 | Cultural
+http://mylatinotv.com:8080/nousiptv/nousiptv345/19401
+#EXTINF:-1,LA | H2 | Cultural Opc 2
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1132378
+#EXTINF:-1,MX | History CHANNEL HD | Cultural
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1132380
+#EXTINF:-1,MX | History CHANNEL SD | Cultural
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1132379
+#EXTINF:-1,MX | History CHANNEL | Cultural
+http://mylatinotv.com:8080/nousiptv/nousiptv345/19402
+#EXTINF:-1,MX | NAT GEO SD | Cultural
+http://mylatinotv.com:8080/nousiptv/nousiptv345/81712
+#EXTINF:-1,MX | Nat Geo SD  | Cultural
+http://mylatinotv.com:8080/nousiptv/nousiptv345/81633
+#EXTINF:-1,MX | Nat Geo | Cultural
+http://mylatinotv.com:8080/nousiptv/nousiptv345/81645
+#EXTINF:-1,MX | Nat Geo HD | Cultural
+http://mylatinotv.com:8080/nousiptv/nousiptv345/81655
+#EXTINF:-1,MX | National Geographic HD | Cultural
+http://mylatinotv.com:8080/nousiptv/nousiptv345/81880
+#EXTINF:-1,LA | Nat Geo | Cultural
+http://mylatinotv.com:8080/nousiptv/nousiptv345/19400
+#EXTINF:-1,MX | NatGeo Wild HD | Cultural
+http://mylatinotv.com:8080/nousiptv/nousiptv345/81632
+#EXTINF:-1,MX | NatGeo Wild SD | Cultural
+http://mylatinotv.com:8080/nousiptv/nousiptv345/81644
+#EXTINF:-1,LA | NatGeo Wild | Cultural
+http://mylatinotv.com:8080/nousiptv/nousiptv345/19364
+#EXTINF:-1,MX | TLC SD | Cultural
+http://mylatinotv.com:8080/nousiptv/nousiptv345/81745
+#EXTINF:-1,MX | TLC HD | Cultural
+http://mylatinotv.com:8080/nousiptv/nousiptv345/81915
+#EXTINF:-1,LA | TLC | Cultural
+http://mylatinotv.com:8080/nousiptv/nousiptv345/19489
