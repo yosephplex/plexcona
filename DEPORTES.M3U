@@ -1,112 +1,255 @@
-#EXTINF:-1,DEP| Fox Sports 1 ARG HD
-http://tv.pstore-tv.com:8080/live/castillo/demo/573.ts
-#EXTINF:-1,DEP| Fox Sports 1 MX FHD
-http://tv.pstore-tv.com:8080/live/castillo/demo/575.ts
-#EXTINF:-1,DEP| Fox Sports 3 ARG HD
-http://tv.pstore-tv.com:8080/live/castillo/demo/582.ts
-#EXTINF:-1,DEP| M. Liga de Campeones FHD
-http://tv.pstore-tv.com:8080/live/castillo/demo/586.ts
-#EXTINF:-1,DEP| Movistar Deportes FHD
-http://tv.pstore-tv.com:8080/live/castillo/demo/587.ts
-#EXTINF:-1,DEP| CDF HD (r)
-http://tv.pstore-tv.com:8080/live/castillo/demo/3770.ts
+#EXTINF:-1,DEPORTES LAT | CDF BASICO
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1131094
+#EXTINF:-1,DEPORTES LAT | CDF FHD
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1131095
+#EXTINF:-1,DEPORTES LAT | CDF FHD -
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1131096
+#EXTINF:-1,DEPORTES LAT | CDF HD
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1131097
+#EXTINF:-1,DEPORTES LAT | CDF HD -
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1131098
+#EXTINF:-1,DEPORTES LAT | CDF ESTADIO -
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1131099
+#EXTINF:-1,DEPORTES LAT | CDF SD PREMIUM
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1131100
+#EXTINF:-1,DEPORTES LAT | CDF SD PREMIUM -
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1131101
+#EXTINF:-1,DEPORTES LAT | FOX SPORTS 1 HD AR
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1131102
+#EXTINF:-1,DEPORTES LAT | FOX SPORTS 1 HD AR -
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1131103
+#EXTINF:-1,DEPORTES LAT | FOX SPORTS 2 HD AR
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1131104
+#EXTINF:-1,DEPORTES LAT | FOX SPORTS 2 HD AR -
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1131105
+#EXTINF:-1,DEPORTES LAT | FOX SPORTS 3 HD AR
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1131106
+#EXTINF:-1,DEPORTES LAT | FOX SPORTS 3 FHD AR
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1131107
+#EXTINF:-1,DEPORTES LAT | FOX SPORTS 1 HD CO
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1131108
+#EXTINF:-1,DEPORTES LAT | FOX SPORTS 1 HD CO -
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1131109
+#EXTINF:-1,DEPORTES LAT | FOX SPORTS 2 HD CO -
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1131110
+#EXTINF:-1,DEPORTES LAT | FOX SPORTS 2 FHD CO
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1131111
+#EXTINF:-1,DEPORTES LAT | WIN SPORTS OP 2
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1131112
+#EXTINF:-1,WINSPORTS + PLUS SD
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1131113
+#EXTINF:-1,WIN SPOTS PLUS SD OP2
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1131114
+#EXTINF:-1,DEPORTES LAT | DIRECTV SPORTS
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1131115
+#EXTINF:-1,DEPORTES LAT | DIRECTV SPORTS 2
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1131116
+#EXTINF:-1,DEPORTES LAT | DIRECTV SPORTS +
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1131117
+#EXTINF:-1,DEPORTES LAT | FOX SPORTS PREMIUM HD
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1131118
+#EXTINF:-1,DEPORTES LAT | FOX SPORTS PREMIUM OP 2
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1131119
+#EXTINF:-1,DEPORTES LAT | TNT SPORTS HD
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1131120
+#EXTINF:-1,DEPORTES LAT | TNT SPORTS HD -
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1131121
+#EXTINF:-1,DEPORTES LAT | TYC SPORTS nacional (u)
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1131122
+#EXTINF:-1,DEPORTES LAT | GOL PERU
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1131123
+#EXTINF:-1,DEPORTES LAT | GOLTV EC
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1131124
+#EXTINF:-1,DEPORTES LAT | GOLTV EC -
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1131125
+#EXTINF:-1,DEPORTES LAT | TIGO SPORTS 1 HD BO
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1131126
+#EXTINF:-1,DEPORTES LAT | TIGO SPORTS 2 HD BO
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1131127
+#EXTINF:-1,DEPORTES LAT | TIGO SPORTS 3 HD BO
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1131128
+#EXTINF:-1,DEPORTES LAT | TIGO SPORTS 1 HD PARAGUAY
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1131129
+#EXTINF:-1,DEPORTES LAT | TIGO SPORTS PLUS PARAGUAY
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1131130
+#EXTINF:-1,● NBA. - TORONTO RAPTORS
+http://mylatinotv.com:8080/nousiptv/nousiptv345/55373
+#EXTINF:-1,● NBA. - UTAH JAZZ
+http://mylatinotv.com:8080/nousiptv/nousiptv345/55372
+#EXTINF:-1,NBA|| DENVER NUGGETS
+http://mylatinotv.com:8080/nousiptv/nousiptv345/55384
+#EXTINF:-1,● NBA. - SACRAMENTO KINGS
+http://mylatinotv.com:8080/nousiptv/nousiptv345/55374
+#EXTINF:-1,Chile || Directv Sports
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1130307
+#EXTINF:-1,ES || DAZN - MOTOGP FULLHD *solo eventos
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1114818
+#EXTINF:-1,ES || DAZN HD
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1114819
+#EXTINF:-1,ES || DAZN SD
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1114820
+#EXTINF:-1,ES || BARCA TV
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1114821
+#EXTINF:-1,ES || MOVISTAR LA LIGA
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1114822
+#EXTINF:-1,ES || MOVISTAR LALIGA HD
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1114823
+#EXTINF:-1,ES || MOVISTAR LA LIGA FULLHD
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1114824
+#EXTINF:-1,ES || LIGA TV BAR
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1114825
+#EXTINF:-1,ES || LIGATV BAR HD
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1114826
+#EXTINF:-1,ES || # VAMOS BAR 1
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1114827
+#EXTINF:-1,ES || # VAMOS BAR 2
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1114828
+#EXTINF:-1,ES || LIGA TV 1 BAR
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1114829
+#EXTINF:-1,ES || MOVISTAR  LALIGA 2
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1114830
+#EXTINF:-1,ES || LIGA TV BAR 3
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1114831
+#EXTINF:-1,ES || LIGA TV BAR 4
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1114832
+#EXTINF:-1,ES || MOVISTAR  LA LIGA 3
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1114833
+#EXTINF:-1,ES || MOVISTAR LA LIGA 8
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1114834
+#EXTINF:-1,ES || MOVISTAR LA LIGA 10
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1114835
+#EXTINF:-1,ES || MOVISTAR LA LIGA 9
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1114836
+#EXTINF:-1,ES || MOVISTAR LA LIGA 4
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1114837
+#EXTINF:-1,ES || MOVISTAR LA LIGA 5
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1114838
+#EXTINF:-1,ES || MOVISTAR LA LIGA 6
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1114839
+#EXTINF:-1,ES || MOVISTAR LA LIGA 7
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1114840
+#EXTINF:-1,ES || MOVISTAR LA LIGA 2 FHD
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1114841
+#EXTINF:-1,ES || MOVISTAR LA LIGA 3 FULLHD
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1114842
+#EXTINF:-1,ES || MOVISTAR VAMOS HD
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1114843
+#EXTINF:-1,ES || MOVISTAR TOROS HD
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1114844
+#EXTINF:-1,ES || MOVISTAR LA LIGA 1 FULLHD
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1114845
+#EXTINF:-1,ES || MOVISTAR F1 HD
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1114846
+#EXTINF:-1,ES || MOVISTAR  F1
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1114847
+#EXTINF:-1,ES || MOVISTAR F1 FULLHD
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1114848
+#EXTINF:-1,ES || MOVISTAR GOLF HD
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1114849
+#EXTINF:-1,ES || LIGA TV BAR HD
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1114850
+#EXTINF:-1,ES || MOVISTAR LALIGA 1
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1114853
+#EXTINF:-1,ES || MOVISTAR LIGA CAMPEONES
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1114854
+#EXTINF:-1,ES || MOVISTAR LIGA CAMPEONES FHD
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1114855
+#EXTINF:-1,ES || MOVISTAR LIGA CAMPEONES 1
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1114856
+#EXTINF:-1,ES || MOVISTAR LIGA CAMPEONES 1 FULLHD
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1114857
+#EXTINF:-1,ES || MOVISTAR LIGA DE CAMPEONES 2
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1114858
+#EXTINF:-1,ES || MOVISTAR LIGA CAMPEONES 2 FULLHD
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1114859
+#EXTINF:-1,ES || MOVISTAR LIGA CAMPEONES 3  Espa
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1114860
+#EXTINF:-1,ES || MOVISTAR LIGA DE CAMPEONES 4
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1114861
+#EXTINF:-1,ES || MOVISTAR LIGA CAMPEONES 5
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1114862
+#EXTINF:-1,ES || MOVISTAR LIGA CAMPEONES 6
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1114863
+#EXTINF:-1,ES || MOVISTAR LIGA CAMPEONES 7
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1114864
+#EXTINF:-1,ES || MOVISTAR LIGA CAMPEONES 8
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1114865
+#EXTINF:-1,ES || ESPORT 3
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1114869
+#EXTINF:-1,ES || TELEDEPORTE FULL HD
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1114870
+#EXTINF:-1,ES || TELEDEPORTE
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1114871
+#EXTINF:-1,ES || MOVISTAR DEPORTE FULLHD
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1114872
+#EXTINF:-1,ES || MOVISTAR DEPORTE 1 FULLHD
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1114873
+#EXTINF:-1,ES || MOVISTAR DEPORTE 1
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1114874
+#EXTINF:-1,ES || MOVISTAR DEPORTE 2
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1114875
+#EXTINF:-1,ES || MOVISTAR DEPORTE 3
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1114876
+#EXTINF:-1,ES || MOVISTAR DEPORTE 4
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1114877
+#EXTINF:-1,ES || MOVISTAR DEPORTE 5
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1114878
+#EXTINF:-1,ES || MOVISTAR DEPORTE 6
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1114879
+#EXTINF:-1,ES || MOVISTAR DEPORTE 7
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1114880
+#EXTINF:-1,ES || MOVISTAR DEPORTE 8
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1114881
+#EXTINF:-1,ES || MOVISTAR  TOROS
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1114882
+#EXTINF:-1,ES || MOVISTAR TOROS FULLHD
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1114883
+#EXTINF:-1,ES || MOVISTAR #VAMOS
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1114884
+#EXTINF:-1,ES || MOVISTAR VAMOS FHD
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1114885
+#EXTINF:-1,ES || MOVISTAR DEPORTE HD
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1114886
+#EXTINF:-1,ES || MOVISTAR  GOLF
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1114887
+#EXTINF:-1,ES || GOL TV
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1114888
+#EXTINF:-1,ES || MEGA
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1114889
+#EXTINF:-1,ES || MOVISTAR GOLF FHD
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1114890
+#EXTINF:-1,ES || EUROSPORT
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1114891
+#EXTINF:-1,ES || EUROSPORT FULL HD
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1114892
+#EXTINF:-1,ES || Eurosport  2
+http://mylatinotv.com:8080/nousiptv/nousiptv345/1114893
 
-#EXTINF:-1,Bolivia TV Deportes
-http://tv.pstore-tv.com:8080/live/castillo/demo/9755.ts
-#EXTINF:-1,BOLIVIA | TIGO SPORTS 3.
-http://tv.pstore-tv.com:8080/live/castillo/demo/9756.ts
-
-#EXTINF:-1,DEP| TNT SPORTS HD (A)
-http://tv.pstore-tv.com:8080/live/castillo/demo/3111.ts
-#EXTINF:-1,DEP| TYC SPORTS HD (A)
-http://tv.pstore-tv.com:8080/live/castillo/demo/3112.ts
-#EXTINF:-1,DEP| FOX SPORTS PREMIUN HD
-http://tv.pstore-tv.com:8080/live/castillo/demo/3113.ts
-#EXTINF:-1,DEP| FOX SPORTS 3 HD (A)
-http://tv.pstore-tv.com:8080/live/castillo/demo/3114.ts
-#EXTINF:-1,DEP| FOX SPORTS 2 FHD (ps)
-http://tv.pstore-tv.com:8080/live/castillo/demo/3115.ts
-#EXTINF:-1,DEP| FOX SPORTS 1 HD (LT)
-http://tv.pstore-tv.com:8080/live/castillo/demo/3116.ts
-#EXTINF:-1,DEP| ESPN 1 SUR HD (EC)
-http://tv.pstore-tv.com:8080/live/castillo/demo/3117.ts
-#EXTINF:-1,DEP| ESPN 3 HD (A)
-http://tv.pstore-tv.com:8080/live/castillo/demo/3118.ts
-#EXTINF:-1,DEP| ESPN 2 HD (A)
-http://tv.pstore-tv.com:8080/live/castillo/demo/3119.ts
-#EXTINF:-1,DEP| DIRECTV SPORTS 2 HD (A)
-http://tv.pstore-tv.com:8080/live/castillo/demo/3120.ts
-#EXTINF:-1,DEP| DIRECTV SPORTS 1 HD (A)
-http://tv.pstore-tv.com:8080/live/castillo/demo/3121.ts
-#EXTINF:-1,DEP| DIRECTV SPORTS + (lt)
-http://tv.pstore-tv.com:8080/live/castillo/demo/3122.ts
-
-#EXTINF:-1,DEP| CDF BASICO 
-http://tv.pstore-tv.com:8080/live/castillo/demo/1365.ts
-
-
-
-#EXTINF:-1,DEP| Directv Sports 2 FHD Arg
-http://tv.pstore-tv.com:8080/live/castillo/demo/559.ts
-#EXTINF:-1,DEP| Directv Sports 2 HD Arg
-http://tv.pstore-tv.com:8080/live/castillo/demo/560.ts
-#EXTINF:-1,DEP| ESPN 1 MX FHD
-http://tv.pstore-tv.com:8080/live/castillo/demo/561.ts
-#EXTINF:-1,DEP| ESPN 1 SUR SD
-http://tv.pstore-tv.com:8080/live/castillo/demo/563.ts
-#EXTINF:-1,DEP| ESPN 1 SUR HD
-http://tv.pstore-tv.com:8080/live/castillo/demo/564.ts
-#EXTINF:-1,DEP| ESPN 2 SUR FHD (CHILE)
-http://tv.pstore-tv.com:8080/live/castillo/demo/566.ts
-#EXTINF:-1,DEP| ESPN 2 SUR HD (Chile)
-http://tv.pstore-tv.com:8080/live/castillo/demo/567.ts
-#EXTINF:-1,DEP| ESPN 3 SUR HD
-http://tv.pstore-tv.com:8080/live/castillo/demo/570.ts
-
-#EXTINF:-1,DEP| TNT Sports HD ARG
-http://tv.pstore-tv.com:8080/live/castillo/demo/591.ts
-#EXTINF:-1,DEP| UFC LIVE HD
-http://tv.pstore-tv.com:8080/live/castillo/demo/595.ts
-#EXTINF:-1,DEP| Win Sports FHD
-http://tv.pstore-tv.com:8080/live/castillo/demo/596.ts
-
-#EXTINF:-1,DEP| beIN Sports 1 HD
-http://tv.pstore-tv.com:8080/live/castillo/demo/7742.ts
-#EXTINF:-1,DEP| beIN Sports 1 HD Arabe
-http://tv.pstore-tv.com:8080/live/castillo/demo/7743.ts
-#EXTINF:-1,DEP| beIN Sports 2 HD
-http://tv.pstore-tv.com:8080/live/castillo/demo/7744.ts
-#EXTINF:-1,DEP| beIN Sports HD 2 Arabe
-http://tv.pstore-tv.com:8080/live/castillo/demo/7745.ts
-#EXTINF:-1,DEP| beIN Sports 3 HD Arabe
-http://tv.pstore-tv.com:8080/live/castillo/demo/7746.ts
-#EXTINF:-1,DEP| beIN Sports 4 HD  (Eventos)
-http://tv.pstore-tv.com:8080/live/castillo/demo/7747.ts
-#EXTINF:-1,DEP| beIN Sports 4 HD Arabe
-http://tv.pstore-tv.com:8080/live/castillo/demo/7748.ts
-#EXTINF:-1,DEP| beIN Sports 5 HD (Eventos)
-http://tv.pstore-tv.com:8080/live/castillo/demo/7749.ts
-#EXTINF:-1,DEP| beIN Sports 5 HD Arabe
-http://tv.pstore-tv.com:8080/live/castillo/demo/7750.ts
-#EXTINF:-1,DEP| beIN Sports 6 HD (Eventos)
-http://tv.pstore-tv.com:8080/live/castillo/demo/7751.ts
-#EXTINF:-1,DEP| beIN Sports 6 HD Arabe
-http://tv.pstore-tv.com:8080/live/castillo/demo/7752.ts
-#EXTINF:-1,DEP| beIN Sports 7 HD (Eventos)
-http://tv.pstore-tv.com:8080/live/castillo/demo/7753.ts
-#EXTINF:-1,DEP| beIN Sports 7 HD Arabe
-http://tv.pstore-tv.com:8080/live/castillo/demo/7754.ts
-#EXTINF:-1,DEP| beIN Sports 8 HD Arabe
-http://tv.pstore-tv.com:8080/live/castillo/demo/7755.ts
-#EXTINF:-1,DEP| beIN Sports 9 HD Arabe
-http://tv.pstore-tv.com:8080/live/castillo/demo/7756.ts
-#EXTINF:-1,DEP| beIN Sports 10 HD Arabe
-http://tv.pstore-tv.com:8080/live/castillo/demo/7757.ts
-#EXTINF:-1,DEP| beIN Sports 11 HD Arabe
-http://tv.pstore-tv.com:8080/live/castillo/demo/7758.ts
-#EXTINF:-1,DEP| beIN Sports 12 HD Arabe
-http://tv.pstore-tv.com:8080/live/castillo/demo/7759.ts
-#EXTINF:-1,MEX | BITME
-http://tv.pstore-tv.com:8080/live/castillo/demo/8301.ts
-#EXTINF:-1,DEP| BEIN SPORT Ñ 
-http://tv.pstore-tv.com:8080/live/castillo/demo/8535.ts
+#EXTINF:-1,AR: beIN SPORTS 12 HD English
+http://mylatinotv.com:8080/nousiptv/nousiptv345/35624
+#EXTINF:-1,AR: beIN SPORTS 11 HD English
+http://mylatinotv.com:8080/nousiptv/nousiptv345/35625
+#EXTINF:-1,AR: beIN SPORTS 10 HD
+http://mylatinotv.com:8080/nousiptv/nousiptv345/35626
+#EXTINF:-1,AR: beIN SPORTS 9 HD
+http://mylatinotv.com:8080/nousiptv/nousiptv345/35627
+#EXTINF:-1,AR: beIN SPORTS 8 HD
+http://mylatinotv.com:8080/nousiptv/nousiptv345/35628
+#EXTINF:-1,AR: beIN SPORTS 7 HD
+http://mylatinotv.com:8080/nousiptv/nousiptv345/35629
+#EXTINF:-1,AR: beIN SPORTS 6 HD
+http://mylatinotv.com:8080/nousiptv/nousiptv345/35630
+#EXTINF:-1,AR: beIN SPORTS 5 HD
+http://mylatinotv.com:8080/nousiptv/nousiptv345/35631
+#EXTINF:-1,AR: beIN SPORTS 4 HD
+http://mylatinotv.com:8080/nousiptv/nousiptv345/35632
+#EXTINF:-1,AR: beIN SPORTS 3 HD
+http://mylatinotv.com:8080/nousiptv/nousiptv345/35633
+#EXTINF:-1,AR: beIN SPORTS 2 HD
+http://mylatinotv.com:8080/nousiptv/nousiptv345/35634
+#EXTINF:-1,AR: beIN SPORTS 1 HD
+http://mylatinotv.com:8080/nousiptv/nousiptv345/35635
+#EXTINF:-1,AR: beIN SPORTS HD
+http://mylatinotv.com:8080/nousiptv/nousiptv345/35636
+#EXTINF:-1,AR: beIN SPORTS NEWS HD
+http://mylatinotv.com:8080/nousiptv/nousiptv345/35637
