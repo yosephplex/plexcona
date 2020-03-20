@@ -3,7 +3,7 @@
 #EXTINF:-1,PREMIUM MEXICO
 #EXTSIZE: big
 #EXTBG: https://media.tenor.com/images/f6757b2a9e3938647780f7064bdb8121/tenor.gif
-https://dl.dropboxusercontent.com/s/s7go1vq499tzg7v/Mexico.m3u?dl=0
+https://dl.dropboxusercontent.com/s/umvz944jhed47se/mexico%20premium.m3u?dl=0
 
 #EXTINF:-1,TOTAL PLAY POCOS MEGAS
 #EXTSIZE: big
@@ -20,10 +20,11 @@ https://raw.githubusercontent.com/yosephplex/plexcona/master/premium%20latino.m3
 #EXTBG: https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSHb9JdZw0k20CN4l22yi9er1r55MalkVqoOZ9v61FaR6x_iMwY
 https://raw.githubusercontent.com/yosephplex/plexcona/master/regionales.m3u
 
-#EXTINF:-1,ESPAÑA
+
+#EXTINF:-1,INFANTIL
 #EXTSIZE: big
-#EXTBG: https://media.giphy.com/media/5RJHSASNSfmP6/giphy.gif
-https://raw.githubusercontent.com/yosephplex/plexcona/master/espa%C3%B1a.m3u
+#EXTBG: https://thumbs.gfycat.com/ImpracticalFatAntelopegroundsquirrel-max-1mb.gif
+https://raw.githubusercontent.com/yosephplex/plexcona/master/infantil.m3u
 
 #EXTINF:-1,DEPORTES EVENTOS -CDF
 #EXTSIZE: big
@@ -47,6 +48,10 @@ https://raw.githubusercontent.com/yosephplex/plexcona/master/canales%20culturale
 
 
 
+#EXTINF:-1,ESPAÑA
+#EXTSIZE: medium
+#EXTBG: https://media.giphy.com/media/5RJHSASNSfmP6/giphy.gif
+https://raw.githubusercontent.com/yosephplex/plexcona/master/espa%C3%B1a.m3u
 
 #EXTINF:-1,PORNO PREMIUM
 #EXTSIZE: MEDIUM
