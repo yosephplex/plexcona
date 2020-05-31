@@ -23,12 +23,15 @@ https://raw.githubusercontent.com/yosephplex/plexcona/master/regionales.m3u
 #EXTBG: https://thumbs.gfycat.com/ImpracticalFatAntelopegroundsquirrel-max-1mb.gif
 https://raw.githubusercontent.com/yosephplex/plexcona/master/infantil.m3u
 
-#EXTINF:-1,DEPORTES EVENTOS -CDF
+#EXTINF:-1,DEPORTES 
 #EXTSIZE: big
 #EXTBG: https://upload.wikimedia.org/wikipedia/commons/1/12/CDF-Turner_LOGO_2019.jpg
 https://raw.githubusercontent.com/yosephplex/plexcona/master/DEPORTES.M3U
 
-
+#EXTINF:-1,24 7
+#EXTSIZE: big
+#EXTBG: https://2.bp.blogspot.com/-hA4FHB_TmNI/WtECk1ySQ_I/AAAAAAAAC84/XiZvkTPy_T8yZDrfwJOfJFPK3-EmaSa3wCLcBGAs/w1200-h630-p-k-no-nu/Screenshot%2B%25282%2529.png
+https://raw.githubusercontent.com/yosephplex/plexcona/master/24%20X%207.M3U
 
 #EXTINF:-1,TOTALPLAY
 #EXTSIZE: big
