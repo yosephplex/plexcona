@@ -1,86 +1,41 @@
-#EXTINF:-1,MX | Animal Planet HD | Cultural
-http://mylatinotv.com:8080/nousiptv/nousiptv345/81917
-#EXTINF:-1,MX | Animal Planet SD | Cultural
-http://mylatinotv.com:8080/nousiptv/nousiptv345/81714
-#EXTINF:-1,LA | Animal Planet | Cultural
-http://mylatinotv.com:8080/nousiptv/nousiptv345/19421
-#EXTINF:-1,MX | Discovery Channel HD | Cultural
-http://mylatinotv.com:8080/nousiptv/nousiptv345/81882
-#EXTINF:-1,MX | Discovery Channel SD | Cultural
-http://mylatinotv.com:8080/nousiptv/nousiptv345/81715
-#EXTINF:-1,LA | Discovery Channel | Cultural
-http://mylatinotv.com:8080/nousiptv/nousiptv345/19398
-#EXTINF:-1,MX | Discovery Civilization HD | Cultural
-http://mylatinotv.com:8080/nousiptv/nousiptv345/81877
-#EXTINF:-1,MX | Discovery Civilization SD | Cultural
-http://mylatinotv.com:8080/nousiptv/nousiptv345/81709
-#EXTINF:-1,MX | Discovery H&H HD | Cultural
-http://mylatinotv.com:8080/nousiptv/nousiptv345/81713
-#EXTINF:-1,MX | Discovery H&H SD | Cultural
-http://mylatinotv.com:8080/nousiptv/nousiptv345/19397
-#EXTINF:-1,MX | Investigation Discovery SD | Cultural
-http://mylatinotv.com:8080/nousiptv/nousiptv345/81748
-#EXTINF:-1,MX | Investigation Discovery HD | Cultural
-http://mylatinotv.com:8080/nousiptv/nousiptv345/81908
-#EXTINF:-1,MX | Investigation Discovery HD | Cultural
-http://mylatinotv.com:8080/nousiptv/nousiptv345/81918
-#EXTINF:-1,LA | Investigation Discovery | Cultural
-http://mylatinotv.com:8080/nousiptv/nousiptv345/19442
-#EXTINF:-1,MX | Discovery Science HD | Cultural
-http://mylatinotv.com:8080/nousiptv/nousiptv345/81878
-#EXTINF:-1,MX | Discovery SCI SD | Cultural
-http://mylatinotv.com:8080/nousiptv/nousiptv345/81710
-#EXTINF:-1,LA | Discovery Science | Cultural
-http://mylatinotv.com:8080/nousiptv/nousiptv345/19332
-#EXTINF:-1,MX | Discovery Theater HD | Cultural
-http://mylatinotv.com:8080/nousiptv/nousiptv345/81886
-#EXTINF:-1,MX | Discovery Theater SD | Cultural
-http://mylatinotv.com:8080/nousiptv/nousiptv345/81719
-#EXTINF:-1,LA | Discovery Theater | Cultural
-http://mylatinotv.com:8080/nousiptv/nousiptv345/19356
-#EXTINF:-1,MX | Discovery Turbo HD | Cultural
-http://mylatinotv.com:8080/nousiptv/nousiptv345/81916
-#EXTINF:-1,MX | Discovery TURBO SD | Cultural
-http://mylatinotv.com:8080/nousiptv/nousiptv345/81746
-#EXTINF:-1,LA | Discovery Turbo | Cultural
-http://mylatinotv.com:8080/nousiptv/nousiptv345/19330
-#EXTINF:-1,MX | Discovery World HD | Cultural
-http://mylatinotv.com:8080/nousiptv/nousiptv345/81883
-#EXTINF:-1,MX | Discovery World SD | Cultural
-http://mylatinotv.com:8080/nousiptv/nousiptv345/81716
-#EXTINF:-1,LA | Discovery World | Cultural
-http://mylatinotv.com:8080/nousiptv/nousiptv345/19408
-#EXTINF:-1,LA | H2 | Cultural
-http://mylatinotv.com:8080/nousiptv/nousiptv345/19401
-#EXTINF:-1,LA | H2 | Cultural Opc 2
-http://mylatinotv.com:8080/nousiptv/nousiptv345/1132378
-#EXTINF:-1,MX | History CHANNEL HD | Cultural
-http://mylatinotv.com:8080/nousiptv/nousiptv345/1132380
-#EXTINF:-1,MX | History CHANNEL SD | Cultural
-http://mylatinotv.com:8080/nousiptv/nousiptv345/1132379
-#EXTINF:-1,MX | History CHANNEL | Cultural
-http://mylatinotv.com:8080/nousiptv/nousiptv345/19402
-#EXTINF:-1,MX | NAT GEO SD | Cultural
-http://mylatinotv.com:8080/nousiptv/nousiptv345/81712
-#EXTINF:-1,MX | Nat Geo SD  | Cultural
-http://mylatinotv.com:8080/nousiptv/nousiptv345/81633
-#EXTINF:-1,MX | Nat Geo | Cultural
-http://mylatinotv.com:8080/nousiptv/nousiptv345/81645
-#EXTINF:-1,MX | Nat Geo HD | Cultural
-http://mylatinotv.com:8080/nousiptv/nousiptv345/81655
-#EXTINF:-1,MX | National Geographic HD | Cultural
-http://mylatinotv.com:8080/nousiptv/nousiptv345/81880
-#EXTINF:-1,LA | Nat Geo | Cultural
-http://mylatinotv.com:8080/nousiptv/nousiptv345/19400
-#EXTINF:-1,MX | NatGeo Wild HD | Cultural
-http://mylatinotv.com:8080/nousiptv/nousiptv345/81632
-#EXTINF:-1,MX | NatGeo Wild SD | Cultural
-http://mylatinotv.com:8080/nousiptv/nousiptv345/81644
-#EXTINF:-1,LA | NatGeo Wild | Cultural
-http://mylatinotv.com:8080/nousiptv/nousiptv345/19364
-#EXTINF:-1,MX | TLC SD | Cultural
-http://mylatinotv.com:8080/nousiptv/nousiptv345/81745
-#EXTINF:-1,MX | TLC HD | Cultural
-http://mylatinotv.com:8080/nousiptv/nousiptv345/81915
-#EXTINF:-1,LA | TLC | Cultural
-http://mylatinotv.com:8080/nousiptv/nousiptv345/19489
+#EXTINF:0,Latino | Discovery Channel
+http://23.237.120.98:25461/kratus/uttX8nlvr3/334
+#EXTINF:0,Latino | Discovery Civilization
+http://23.237.120.98:25461/kratus/uttX8nlvr3/335
+#EXTINF:0,Latino | Discovery en Espanol
+http://23.237.120.98:25461/kratus/uttX8nlvr3/336
+#EXTINF:0,Latino | Discovery Familia
+http://23.237.120.98:25461/kratus/uttX8nlvr3/337
+#EXTINF:0,Latino | Discovery H&H
+http://23.237.120.98:25461/kratus/uttX8nlvr3/338
+#EXTINF:0,Latino | Discovery ID
+http://23.237.120.98:25461/kratus/uttX8nlvr3/339
+#EXTINF:0,Latino | Discovery Kids
+http://23.237.120.98:25461/kratus/uttX8nlvr3/340
+#EXTINF:0,Latino | Discovery Science
+http://23.237.120.98:25461/kratus/uttX8nlvr3/341
+#EXTINF:0,Latino | Discovery Theater
+http://23.237.120.98:25461/kratus/uttX8nlvr3/342
+#EXTINF:0,Latino | Discovery TLC
+http://23.237.120.98:25461/kratus/uttX8nlvr3/343
+#EXTINF:0,Latino | Discovery Turbo
+http://23.237.120.98:25461/kratus/uttX8nlvr3/344
+#EXTINF:0,Latino | Discovery World
+http://23.237.120.98:25461/kratus/uttX8nlvr3/345
+#EXTINF:0,Latino | History 2
+http://23.237.120.98:25461/kratus/uttX8nlvr3/385
+#EXTINF:0,Latino | History Channel
+http://23.237.120.98:25461/kratus/uttX8nlvr3/386
+#EXTINF:0,Latino | Animal Planet
+http://23.237.120.98:25461/kratus/uttX8nlvr3/309
+#EXTINF:0,Latino | Nat Geo Kids
+http://23.237.120.98:25461/kratus/uttX8nlvr3/398
+#EXTINF:0,Latino | Nat Geo Wild
+http://23.237.120.98:25461/kratus/uttX8nlvr3/397
+#EXTINF:0,Latino | National Geographic
+http://23.237.120.98:25461/kratus/uttX8nlvr3/399
+#EXTINF:0,Latino | Ultra Docu
+http://23.237.120.98:25461/kratus/uttX8nlvr3/430
+
+
+
