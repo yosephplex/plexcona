@@ -28,13 +28,11 @@ https://raw.githubusercontent.com/yosephplex/cinelatino/master/Estrenos.m3u
 https://raw.githubusercontent.com/yosephplex/plexcona/master/prmiumtvcona.m3u
 
 
-#EXTINF:-1,HALLOWEEN
+#EXTINF:-1,DEPORTES CARLOS
 #EXTSIZE: big
-#EXTBG: https://i.pinimg.com/originals/05/89/a6/0589a6dc536f9cf82fc5103661be14f7.gif
-https://raw.githubusercontent.com/yosephplex/cinelatino/master/terror%20ssiptv.m3u
+#EXTBG: https://38.media.tumblr.com/90bc9d19c9041e0576c7c2ff85883d05/tumblr_nd70x8ZgqH1txlxx3o1_400.gif
+https://raw.githubusercontent.com/yosephplex/plexcona/master/DEPORTES.M3Uno/master/terror%20ssiptv.m3u
 
-
-#
 
 #EXTINF:-1,PELICULAS PLEXCONA
 #EXTSIZE: big
