@@ -1,2227 +1,1882 @@
+
+
 #EXTM3U
 
-#EXTINF:0,Latino | HBO
-http://23.237.120.98:25461/kratus/uttX8nlvr3/381
-#EXTINF:0,Latino | HBO 2
-http://23.237.120.98:25461/kratus/uttX8nlvr3/382
-#EXTINF:0,Latino | HBO Xtreme
-http://23.237.120.98:25461/kratus/uttX8nlvr3/391
-#EXTINF:0,Latino | HBO PoP
-http://23.237.120.98:25461/kratus/uttX8nlvr3/392
-#EXTINF:0,Latino | HBO Family
-http://23.237.120.98:25461/kratus/uttX8nlvr3/383
-#EXTINF:0,Latino | HBO Mundi
-http://23.237.120.98:25461/kratus/uttX8nlvr3/751
-#EXTINF:0,Latino | HBO Plus
-http://23.237.120.98:25461/kratus/uttX8nlvr3/384
-#EXTINF:0,Latino | HBO Signature
-http://23.237.120.98:25461/kratus/uttX8nlvr3/574
-#EXTINF:0,Latino | FOX
-http://23.237.120.98:25461/kratus/uttX8nlvr3/361
-#EXTINF:0,Latino | FOX Action
-http://23.237.120.98:25461/kratus/uttX8nlvr3/362
-#EXTINF:0,Latino | FOX Cinema
-http://23.237.120.98:25461/kratus/uttX8nlvr3/363
-#EXTINF:0,Latino | FOX Classic
-http://23.237.120.98:25461/kratus/uttX8nlvr3/364
-#EXTINF:0,Latino | FOX Family
-http://23.237.120.98:25461/kratus/uttX8nlvr3/365
-#EXTINF:0,Latino | FOX Life
-http://23.237.120.98:25461/kratus/uttX8nlvr3/366
-#EXTINF:0,Latino | FOX Movies
-http://23.237.120.98:25461/kratus/uttX8nlvr3/367
-#EXTINF:0,Latino | FOX Series
-http://23.237.120.98:25461/kratus/uttX8nlvr3/368
-
-#EXTINF:0,Latino | A&E
-http://23.237.120.98:25461/kratus/uttX8nlvr3/304
-#EXTINF:0,Latino | A3S
-http://23.237.120.98:25461/kratus/uttX8nlvr3/305
-#EXTINF:0,Latino | ADN40
-http://23.237.120.98:25461/kratus/uttX8nlvr3/306
-#EXTINF:0,Latino | AMC
-http://23.237.120.98:25461/kratus/uttX8nlvr3/308
-#EXTINF:0,Latino | Animal Planet
-http://23.237.120.98:25461/kratus/uttX8nlvr3/309
-#EXTINF:0,Latino | Antena 3
-http://23.237.120.98:25461/kratus/uttX8nlvr3/310
-#EXTINF:0,Latino | AXN
-http://23.237.120.98:25461/kratus/uttX8nlvr3/311
-#EXTINF:0,Latino | AXN White
-http://23.237.120.98:25461/kratus/uttX8nlvr3/312
-#EXTINF:0,Latino | AyM Sports
-http://23.237.120.98:25461/kratus/uttX8nlvr3/313
-#EXTINF:0,Latino | AZ Cinema
-http://23.237.120.98:25461/kratus/uttX8nlvr3/314
-#EXTINF:0,Latino | AZ Corazon
-http://23.237.120.98:25461/kratus/uttX8nlvr3/315
-#EXTINF:0,Latino | AZ Mundo
-http://23.237.120.98:25461/kratus/uttX8nlvr3/316
-#EXTINF:0,Latino | Azteca 1
-http://23.237.120.98:25461/kratus/uttX8nlvr3/317
-#EXTINF:0,Latino | Azteca 7
-http://23.237.120.98:25461/kratus/uttX8nlvr3/318
-#EXTINF:0,Latino | Bandamax
-http://23.237.120.98:25461/kratus/uttX8nlvr3/319
-#EXTINF:0,Latino | beIN Sports
-http://23.237.120.98:25461/kratus/uttX8nlvr3/320
-#EXTINF:0,Latino | beIN Sports La Liga
-http://23.237.120.98:25461/kratus/uttX8nlvr3/321
-#EXTINF:0,Latino | beIN Sports Opcion 2
-http://23.237.120.98:25461/kratus/uttX8nlvr3/648
-#EXTINF:0,Latino | Boomerang
-http://23.237.120.98:25461/kratus/uttX8nlvr3/322
-#EXTINF:0,Latino | Canal 11
-http://23.237.120.98:25461/kratus/uttX8nlvr3/323
-#EXTINF:0,Latino | Canal 5
-http://23.237.120.98:25461/kratus/uttX8nlvr3/324
-#EXTINF:0,Latino | Canal De Las Estrellas
-http://23.237.120.98:25461/kratus/uttX8nlvr3/325
-#EXTINF:0,Latino | Caracol
-http://23.237.120.98:25461/kratus/uttX8nlvr3/326
-#EXTINF:0,Latino | Caracol Int
-http://23.237.120.98:25461/kratus/uttX8nlvr3/727
-#EXTINF:0,Latino | Cartoon Network
-http://23.237.120.98:25461/kratus/uttX8nlvr3/327
-#EXTINF:0,Latino | CineCanal
-http://23.237.120.98:25461/kratus/uttX8nlvr3/328
-#EXTINF:0,Latino | CineLatino
-http://23.237.120.98:25461/kratus/uttX8nlvr3/329
-#EXTINF:0,Latino | Cinemax
-http://23.237.120.98:25461/kratus/uttX8nlvr3/330
-#EXTINF:0,Latino | CNN en Espanol
-http://23.237.120.98:25461/kratus/uttX8nlvr3/331
-#EXTINF:0,Latino | Comedy Central
-http://23.237.120.98:25461/kratus/uttX8nlvr3/332
-#EXTINF:0,Latino | De Pelicula
-http://23.237.120.98:25461/kratus/uttX8nlvr3/333
-#EXTINF:0,Latino | Discovery Channel
-http://23.237.120.98:25461/kratus/uttX8nlvr3/334
-#EXTINF:0,Latino | Discovery Civilization
-http://23.237.120.98:25461/kratus/uttX8nlvr3/335
-#EXTINF:0,Latino | Discovery en Espanol
-http://23.237.120.98:25461/kratus/uttX8nlvr3/336
-#EXTINF:0,Latino | Discovery Familia
-http://23.237.120.98:25461/kratus/uttX8nlvr3/337
-#EXTINF:0,Latino | Discovery H&H
-http://23.237.120.98:25461/kratus/uttX8nlvr3/338
-#EXTINF:0,Latino | Discovery ID
-http://23.237.120.98:25461/kratus/uttX8nlvr3/339
-#EXTINF:0,Latino | Discovery Kids
-http://23.237.120.98:25461/kratus/uttX8nlvr3/340
-#EXTINF:0,Latino | Discovery Science
-http://23.237.120.98:25461/kratus/uttX8nlvr3/341
-#EXTINF:0,Latino | Discovery Theater
-http://23.237.120.98:25461/kratus/uttX8nlvr3/342
-#EXTINF:0,Latino | Discovery TLC
-http://23.237.120.98:25461/kratus/uttX8nlvr3/343
-#EXTINF:0,Latino | Discovery Turbo
-http://23.237.120.98:25461/kratus/uttX8nlvr3/344
-#EXTINF:0,Latino | Discovery World
-http://23.237.120.98:25461/kratus/uttX8nlvr3/345
-#EXTINF:0,Latino | Disney Channel
-http://23.237.120.98:25461/kratus/uttX8nlvr3/346
-#EXTINF:0,Latino | Disney Jr
-http://23.237.120.98:25461/kratus/uttX8nlvr3/347
-#EXTINF:0,Latino | Disney XD
-http://23.237.120.98:25461/kratus/uttX8nlvr3/348
-#EXTINF:0,Latino | Distrito Comedia
-http://23.237.120.98:25461/kratus/uttX8nlvr3/349
-#EXTINF:0,Latino | E!
-http://23.237.120.98:25461/kratus/uttX8nlvr3/350
-#EXTINF:0,Latino | El Garage
-http://23.237.120.98:25461/kratus/uttX8nlvr3/351
-#EXTINF:0,Latino | El Gourmet
-http://23.237.120.98:25461/kratus/uttX8nlvr3/352
-#EXTINF:0,Latino | ESPN
-http://23.237.120.98:25461/kratus/uttX8nlvr3/353
-#EXTINF:0,Latino | ESPN 2
-http://23.237.120.98:25461/kratus/uttX8nlvr3/354
-#EXTINF:0,Latino | ESPN 3
-http://23.237.120.98:25461/kratus/uttX8nlvr3/355
-#EXTINF:0,Latino | ESPN Deportes
-http://23.237.120.98:25461/kratus/uttX8nlvr3/356
-#EXTINF:0,Latino | ESPN Plus
-http://23.237.120.98:25461/kratus/uttX8nlvr3/357
-#EXTINF:0,Latino | Estrella TV
-http://23.237.120.98:25461/kratus/uttX8nlvr3/358
-#EXTINF:0,Latino | Food Network
-http://23.237.120.98:25461/kratus/uttX8nlvr3/359
-#EXTINF:0,Latino | Foro TV
-http://23.237.120.98:25461/kratus/uttX8nlvr3/360
-#EXTINF:0,Latino | FOX
-http://23.237.120.98:25461/kratus/uttX8nlvr3/361
-#EXTINF:0,Latino | FOX Action
-http://23.237.120.98:25461/kratus/uttX8nlvr3/362
-#EXTINF:0,Latino | FOX Cinema
-http://23.237.120.98:25461/kratus/uttX8nlvr3/363
-#EXTINF:0,Latino | FOX Classic
-http://23.237.120.98:25461/kratus/uttX8nlvr3/364
-#EXTINF:0,Latino | FOX Family
-http://23.237.120.98:25461/kratus/uttX8nlvr3/365
-#EXTINF:0,Latino | FOX Life
-http://23.237.120.98:25461/kratus/uttX8nlvr3/366
-#EXTINF:0,Latino | FOX Movies
-http://23.237.120.98:25461/kratus/uttX8nlvr3/367
-#EXTINF:0,Latino | FOX Series
-http://23.237.120.98:25461/kratus/uttX8nlvr3/368
-#EXTINF:0,Latino | FOX Sports
-http://23.237.120.98:25461/kratus/uttX8nlvr3/369
-#EXTINF:0,Latino | FOX Sports 2
-http://23.237.120.98:25461/kratus/uttX8nlvr3/370
-#EXTINF:0,Latino | FOX Sports 3
-http://23.237.120.98:25461/kratus/uttX8nlvr3/371
-#EXTINF:0,Latino | FOX Sports Premium
-http://23.237.120.98:25461/kratus/uttX8nlvr3/649
-#EXTINF:0,Latino | FX
-http://23.237.120.98:25461/kratus/uttX8nlvr3/372
-#EXTINF:0,Latino | FXM
-http://23.237.120.98:25461/kratus/uttX8nlvr3/373
-#EXTINF:0,Latino | Gala TV
-http://23.237.120.98:25461/kratus/uttX8nlvr3/374
-#EXTINF:0,Latino | Glitz
-http://23.237.120.98:25461/kratus/uttX8nlvr3/375
-#EXTINF:0,Latino | Gol TV
-http://23.237.120.98:25461/kratus/uttX8nlvr3/376
-#EXTINF:0,Latino | Golden EDGE
-http://23.237.120.98:25461/kratus/uttX8nlvr3/377
-#EXTINF:0,Latino | Golden Plus
-http://23.237.120.98:25461/kratus/uttX8nlvr3/378
-#EXTINF:0,Latino | Golden Premier
-http://23.237.120.98:25461/kratus/uttX8nlvr3/379
-#EXTINF:0,Latino | Golf Channel
-http://23.237.120.98:25461/kratus/uttX8nlvr3/380
-#EXTINF:0,Latino | HBO
-http://23.237.120.98:25461/kratus/uttX8nlvr3/381
-#EXTINF:0,Latino | HBO 2
-http://23.237.120.98:25461/kratus/uttX8nlvr3/382
-#EXTINF:0,Latino | HBO Xtreme
-http://23.237.120.98:25461/kratus/uttX8nlvr3/391
-#EXTINF:0,Latino | HBO PoP
-http://23.237.120.98:25461/kratus/uttX8nlvr3/392
-#EXTINF:0,Latino | HBO Family
-http://23.237.120.98:25461/kratus/uttX8nlvr3/383
-#EXTINF:0,Latino | HBO Mundi
-http://23.237.120.98:25461/kratus/uttX8nlvr3/751
-#EXTINF:0,Latino | HBO Plus
-http://23.237.120.98:25461/kratus/uttX8nlvr3/384
-#EXTINF:0,Latino | HBO Signature
-http://23.237.120.98:25461/kratus/uttX8nlvr3/574
-#EXTINF:0,Latino | History 2
-http://23.237.120.98:25461/kratus/uttX8nlvr3/385
-#EXTINF:0,Latino | History Channel
-http://23.237.120.98:25461/kratus/uttX8nlvr3/386
-#EXTINF:0,Latino | Hola TV
-http://23.237.120.98:25461/kratus/uttX8nlvr3/387
-#EXTINF:0,Latino | Imagen
-http://23.237.120.98:25461/kratus/uttX8nlvr3/388
-#EXTINF:0,Latino | Lifetime
-http://23.237.120.98:25461/kratus/uttX8nlvr3/389
-#EXTINF:0,Latino | MasChic
-http://23.237.120.98:25461/kratus/uttX8nlvr3/390
-
-#EXTINF:0,Latino | Mexiquense
-http://23.237.120.98:25461/kratus/uttX8nlvr3/393
-#EXTINF:0,Latino | MTV
-http://23.237.120.98:25461/kratus/uttX8nlvr3/394
-#EXTINF:0,Latino | Multimedios
-http://23.237.120.98:25461/kratus/uttX8nlvr3/395
-#EXTINF:0,Latino | Nat Geo Kids
-http://23.237.120.98:25461/kratus/uttX8nlvr3/398
-#EXTINF:0,Latino | Nat Geo Wild
-http://23.237.120.98:25461/kratus/uttX8nlvr3/397
-#EXTINF:0,Latino | National Geographic
-http://23.237.120.98:25461/kratus/uttX8nlvr3/399
-#EXTINF:0,Latino | Nick
-http://23.237.120.98:25461/kratus/uttX8nlvr3/400
-#EXTINF:0,Latino | Nick Jr
-http://23.237.120.98:25461/kratus/uttX8nlvr3/401
-#EXTINF:0,Latino | Nicktoons
-http://23.237.120.98:25461/kratus/uttX8nlvr3/402
-#EXTINF:0,Latino | Pasiones
-http://23.237.120.98:25461/kratus/uttX8nlvr3/403
-#EXTINF:0,Latino | RCN
-http://23.237.120.98:25461/kratus/uttX8nlvr3/404
-#EXTINF:0,Latino | Ritmoson
-http://23.237.120.98:25461/kratus/uttX8nlvr3/405
-#EXTINF:0,Latino | Showtime
-http://23.237.120.98:25461/kratus/uttX8nlvr3/406
-#EXTINF:0,Latino | Showtime Beyond
-http://23.237.120.98:25461/kratus/uttX8nlvr3/746
-#EXTINF:0,Latino | Sony
-http://23.237.120.98:25461/kratus/uttX8nlvr3/407
-#EXTINF:0,Latino | Space
-http://23.237.120.98:25461/kratus/uttX8nlvr3/408
-#EXTINF:0,Latino | Starz
-http://23.237.120.98:25461/kratus/uttX8nlvr3/409
-#EXTINF:0,Latino | Starz Encore
-http://23.237.120.98:25461/kratus/uttX8nlvr3/410
-#EXTINF:0,Latino | Studio Universal
-http://23.237.120.98:25461/kratus/uttX8nlvr3/411
-#EXTINF:0,Latino | Sundance
-http://23.237.120.98:25461/kratus/uttX8nlvr3/412
-#EXTINF:0,Latino | SyFy
-http://23.237.120.98:25461/kratus/uttX8nlvr3/413
-#EXTINF:0,Latino | TBS
-http://23.237.120.98:25461/kratus/uttX8nlvr3/414
-#EXTINF:0,Latino | TCM
-http://23.237.120.98:25461/kratus/uttX8nlvr3/415
-#EXTINF:0,Latino | Teleformula
-http://23.237.120.98:25461/kratus/uttX8nlvr3/416
-#EXTINF:0,Latino | Telehit
-http://23.237.120.98:25461/kratus/uttX8nlvr3/417
-#EXTINF:0,Latino | Telemundo Int
-http://23.237.120.98:25461/kratus/uttX8nlvr3/418
-#EXTINF:0,Latino | TLnovelas
-http://23.237.120.98:25461/kratus/uttX8nlvr3/419
-#EXTINF:0,Latino | TNT
-http://23.237.120.98:25461/kratus/uttX8nlvr3/420
-#EXTINF:0,Latino | TNT Series
-http://23.237.120.98:25461/kratus/uttX8nlvr3/421
-#EXTINF:0,Latino | Tooncast
-http://23.237.120.98:25461/kratus/uttX8nlvr3/422
-#EXTINF:0,Latino | TruTV
-http://23.237.120.98:25461/kratus/uttX8nlvr3/423
-#EXTINF:0,Latino | TUDN
-http://23.237.120.98:25461/kratus/uttX8nlvr3/424
-#EXTINF:0,Latino | TVC
-http://23.237.120.98:25461/kratus/uttX8nlvr3/425
-#EXTINF:0,Latino | TVC Deportes
-http://23.237.120.98:25461/kratus/uttX8nlvr3/426
-#EXTINF:0,Latino | TyC Sports
-http://23.237.120.98:25461/kratus/uttX8nlvr3/427
-#EXTINF:0,Latino | Ultra Cine
-http://23.237.120.98:25461/kratus/uttX8nlvr3/428
-#EXTINF:0,Latino | Ultra Clasico
-http://23.237.120.98:25461/kratus/uttX8nlvr3/429
-#EXTINF:0,Latino | Ultra Docu
-http://23.237.120.98:25461/kratus/uttX8nlvr3/430
-#EXTINF:0,Latino | Ultra Familia
-http://23.237.120.98:25461/kratus/uttX8nlvr3/431
-#EXTINF:0,Latino | Ultra Fiesta
-http://23.237.120.98:25461/kratus/uttX8nlvr3/432
-#EXTINF:0,Latino | Ultra Film
-http://23.237.120.98:25461/kratus/uttX8nlvr3/433
-#EXTINF:0,Latino | Ultra Macho
-http://23.237.120.98:25461/kratus/uttX8nlvr3/434
-#EXTINF:0,Latino | Ultra MEX
-http://23.237.120.98:25461/kratus/uttX8nlvr3/435
-#EXTINF:0,Latino | Ultra Tainment
-http://23.237.120.98:25461/kratus/uttX8nlvr3/436
-#EXTINF:0,Latino | Unicable
-http://23.237.120.98:25461/kratus/uttX8nlvr3/437
-#EXTINF:0,Latino | UniMas
-http://23.237.120.98:25461/kratus/uttX8nlvr3/438
-#EXTINF:0,Latino | Universal Channel
-http://23.237.120.98:25461/kratus/uttX8nlvr3/439
-#EXTINF:0,Latino | VH1
-http://23.237.120.98:25461/kratus/uttX8nlvr3/440
-#EXTINF:0,Latino | VH1 Classic
-http://23.237.120.98:25461/kratus/uttX8nlvr3/441
-#EXTINF:0,Latino | Warner
-http://23.237.120.98:25461/kratus/uttX8nlvr3/442
-#EXTINF:0,Latino | Win Sports
-http://23.237.120.98:25461/kratus/uttX8nlvr3/443
-#EXTINF:0,Latino | Win Sports +
-http://23.237.120.98:25461/kratus/uttX8nlvr3/618
-#EXTINF:0,Latino | Zona Futbol
-http://23.237.120.98:25461/kratus/uttX8nlvr3/624
-#EXTINF:0,PR | MEGA TV
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/298
-#EXTINF:0,PR | Punto 2
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/299
-#EXTINF:0,PR | Telemundo
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/300
-#EXTINF:0,PR | Univision
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/301
-#EXTINF:0,PR | WAPA
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/302
-#EXTINF:0,PR | WAPA 2
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/495
-#EXTINF:0,PR | WIPR
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/303
-
-#EXTINF:0,Latino | FOX Sports
-http://23.237.120.98:25461/kratus/uttX8nlvr3/369
-#EXTINF:0,Latino | FOX Sports 2
-http://23.237.120.98:25461/kratus/uttX8nlvr3/370
-#EXTINF:0,Latino | FOX Sports 3
-http://23.237.120.98:25461/kratus/uttX8nlvr3/371
-#EXTINF:0,Latino | FOX Sports Premium
-http://23.237.120.98:25461/kratus/uttX8nlvr3/649
-#EXTINF:0,Latino | ESPN
-http://23.237.120.98:25461/kratus/uttX8nlvr3/353
-#EXTINF:0,Latino | ESPN 2
-http://23.237.120.98:25461/kratus/uttX8nlvr3/354
-#EXTINF:0,Latino | ESPN 3
-http://23.237.120.98:25461/kratus/uttX8nlvr3/355
-#EXTINF:0,Latino | ESPN Deportes
-http://23.237.120.98:25461/kratus/uttX8nlvr3/356
-#EXTINF:0,Latino | ESPN Plus
-http://23.237.120.98:25461/kratus/uttX8nlvr3/357
-#EXTINF:0,Latino | beIN Sports La Liga
-http://23.237.120.98:25461/kratus/uttX8nlvr3/321
-#EXTINF:0,Latino | beIN Sports Opcion 2
-http://23.237.120.98:25461/kratus/uttX8nlvr3/648
-#EXTINF:0,ES | Eurosport 1
-http://23.237.120.98:25461/kratus/uttX8nlvr3/444
-#EXTINF:0,ES | Eurosport 2
-http://23.237.120.98:25461/kratus/uttX8nlvr3/445
-#EXTINF:0,Latino | Gol TV
-http://23.237.120.98:25461/kratus/uttX8nlvr3/376
-#EXTINF:0,ES | La Liga Bar
-http://23.237.120.98:25461/kratus/uttX8nlvr3/446
-#EXTINF:0,ES | Liga de Campeones
-http://23.237.120.98:25461/kratus/uttX8nlvr3/452
-#EXTINF:0,ES | Movistar Deportes
-http://23.237.120.98:25461/kratus/uttX8nlvr3/447
-#EXTINF:0,ES | Movistar Deportes 2
-http://23.237.120.98:25461/kratus/uttX8nlvr3/448
-#EXTINF:0,ES | Movistar F1
-http://23.237.120.98:25461/kratus/uttX8nlvr3/449
-#EXTINF:0,ES | Movistar Futbol
-http://23.237.120.98:25461/kratus/uttX8nlvr3/451
-#EXTINF:0,ES | Movistar Golf
-http://23.237.120.98:25461/kratus/uttX8nlvr3/450
-#EXTINF:0,ES | Toros TV
-http://23.237.120.98:25461/kratus/uttX8nlvr3/453
-#EXTINF:0,ESPN+
-http://23.237.120.98:25461/kratus/uttX8nlvr3/637
-#EXTINF:0,ESPN+ 1
-http://23.237.120.98:25461/kratus/uttX8nlvr3/638
-#EXTINF:0,ESPN+ 10
-http://23.237.120.98:25461/kratus/uttX8nlvr3/647
-#EXTINF:0,ESPN+ 2
-http://23.237.120.98:25461/kratus/uttX8nlvr3/639
-#EXTINF:0,ESPN+ 3
-http://23.237.120.98:25461/kratus/uttX8nlvr3/640
-#EXTINF:0,ESPN+ 4
-http://23.237.120.98:25461/kratus/uttX8nlvr3/641
-#EXTINF:0,ESPN+ 5
-http://23.237.120.98:25461/kratus/uttX8nlvr3/642
-#EXTINF:0,ESPN+ 6
-http://23.237.120.98:25461/kratus/uttX8nlvr3/643
-#EXTINF:0,ESPN+ 7
-http://23.237.120.98:25461/kratus/uttX8nlvr3/644
-#EXTINF:0,ESPN+ 8
-http://23.237.120.98:25461/kratus/uttX8nlvr3/645
-#EXTINF:0,ESPN+ 9
-http://23.237.120.98:25461/kratus/uttX8nlvr3/646
-#EXTINF:0,Event 1 - AEW Double or Nothing HD
-http://23.237.120.98:25461/kratus/uttX8nlvr3/7
-#EXTINF:0,Event 2 - AEW Double or Nothing SD
-http://23.237.120.98:25461/kratus/uttX8nlvr3/8
-#EXTINF:0,Event 3 -
-http://23.237.120.98:25461/kratus/uttX8nlvr3/9
-#EXTINF:0,Event 4 -
-http://23.237.120.98:25461/kratus/uttX8nlvr3/13
-#EXTINF:0,Event 5 -
-http://23.237.120.98:25461/kratus/uttX8nlvr3/14
-#EXTINF:0,FOX Sports Arizona
-http://23.237.120.98:25461/kratus/uttX8nlvr3/278
-#EXTINF:0,FOX Sports North
-http://23.237.120.98:25461/kratus/uttX8nlvr3/281
-#EXTINF:0,FOX Sports Ohio
-http://23.237.120.98:25461/kratus/uttX8nlvr3/282
-#EXTINF:0,FOX Sports San Diego
-http://23.237.120.98:25461/kratus/uttX8nlvr3/283
-#EXTINF:0,FOX Sports South
-http://23.237.120.98:25461/kratus/uttX8nlvr3/284
-#EXTINF:0,FOX Sports SouthEast
-http://23.237.120.98:25461/kratus/uttX8nlvr3/285
-#EXTINF:0,FOX Sports SouthWest
-http://23.237.120.98:25461/kratus/uttX8nlvr3/286
-#EXTINF:0,FOX Sports Sun
-http://23.237.120.98:25461/kratus/uttX8nlvr3/287
-#EXTINF:0,FOX Sports West
-http://23.237.120.98:25461/kratus/uttX8nlvr3/289
-#EXTINF:0,FOX Sports Wisconsin
-http://23.237.120.98:25461/kratus/uttX8nlvr3/290
-#EXTINF:0,FR | beIN Sports 1
-http://23.237.120.98:25461/kratus/uttX8nlvr3/479
-#EXTINF:0,FR | beIN Sports 2
-http://23.237.120.98:25461/kratus/uttX8nlvr3/480
-#EXTINF:0,FR | beIN Sports 3
-http://23.237.120.98:25461/kratus/uttX8nlvr3/481
-
-#EXTINF:0,DAZN 1 24/7
-http://23.237.120.98:25461/kratus/uttX8nlvr3/998
-#EXTINF:0,DAZN 2 24/7
-http://23.237.120.98:25461/kratus/uttX8nlvr3/999
-
-#EXTINF:0,AR | beIN Sports 1
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/482
-#EXTINF:0,AR | beIN Sports 10
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/491
-#EXTINF:0,AR | beIN Sports 11
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/492
-#EXTINF:0,AR | beIN Sports 12
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/493
-#EXTINF:0,AR | beIN Sports 13
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/494
-#EXTINF:0,AR | beIN Sports 2
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/483
-#EXTINF:0,AR | beIN Sports 3
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/484
-#EXTINF:0,AR | beIN Sports 4
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/485
-#EXTINF:0,AR | beIN Sports 5
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/486
-#EXTINF:0,AR | beIN Sports 6
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/487
-#EXTINF:0,AR | beIN Sports 7
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/488
-#EXTINF:0,AR | beIN Sports 8
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/489
-#EXTINF:0,AR | beIN Sports 9
-http://23.237.120.98:25461/kratus/uttX8nlvr3/490
-#EXTINF:0,UK | Sky Sports Action
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/461
-#EXTINF:0,UK | Sky Sports Arena
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/937
-#EXTINF:0,UK | Sky Sports Cricket
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/462
-#EXTINF:0,UK | Sky Sports F1
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/463
-#EXTINF:0,UK | Sky Sports Football
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/935
-#EXTINF:0,UK | Sky Sports Golf
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/460
-#EXTINF:0,UK | Sky Sports Main Event
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/458
-#EXTINF:0,UK | Sky Sports MIX
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/466
-#EXTINF:0,UK | Sky Sports News
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/934
-#EXTINF:0,UK | Sky Sports Premier League
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/459
-#EXTINF:0,UK | Sky Sports Racing
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/936
-#EXTINF:0,MLB 1 -
-http://23.237.120.98:25461/kratus/uttX8nlvr3/15
-#EXTINF:0,MLB 10 -
-http://23.237.120.98:25461/kratus/uttX8nlvr3/24
-#EXTINF:0,MLB 11 -
-http://23.237.120.98:25461/kratus/uttX8nlvr3/25
-#EXTINF:0,MLB 12 -
-http://23.237.120.98:25461/kratus/uttX8nlvr3/26
-#EXTINF:0,MLB 13 -
-http://23.237.120.98:25461/kratus/uttX8nlvr3/27
-#EXTINF:0,MLB 14 -
-http://23.237.120.98:25461/kratus/uttX8nlvr3/28
-#EXTINF:0,MLB 15 -
-http://23.237.120.98:25461/kratus/uttX8nlvr3/29
-#EXTINF:0,MLB 2  -
-http://23.237.120.98:25461/kratus/uttX8nlvr3/16
-#EXTINF:0,MLB 3 -
-http://23.237.120.98:25461/kratus/uttX8nlvr3/17
-#EXTINF:0,MLB 4 -
-http://23.237.120.98:25461/kratus/uttX8nlvr3/18
-#EXTINF:0,MLB 5 -
-http://23.237.120.98:25461/kratus/uttX8nlvr3/19
-#EXTINF:0,MLB 6 -
-http://23.237.120.98:25461/kratus/uttX8nlvr3/20
-#EXTINF:0,MLB 7 -
-http://23.237.120.98:25461/kratus/uttX8nlvr3/21
-#EXTINF:0,MLB 8 -
-http://23.237.120.98:25461/kratus/uttX8nlvr3/22
-#EXTINF:0,MLB 9 -
-http://23.237.120.98:25461/kratus/uttX8nlvr3/23
-#EXTINF:0,NBA 1 -
-http://23.237.120.98:25461/kratus/uttX8nlvr3/30
-#EXTINF:0,NBA 10 -
-http://23.237.120.98:25461/kratus/uttX8nlvr3/39
-#EXTINF:0,NBA 11 -
-http://23.237.120.98:25461/kratus/uttX8nlvr3/40
-#EXTINF:0,NBA 12 -
-http://23.237.120.98:25461/kratus/uttX8nlvr3/602
-#EXTINF:0,NBA 13 -
-http://23.237.120.98:25461/kratus/uttX8nlvr3/603
-#EXTINF:0,NBA 14 -
-http://23.237.120.98:25461/kratus/uttX8nlvr3/604
-#EXTINF:0,NBA 2 -
-http://23.237.120.98:25461/kratus/uttX8nlvr3/31
-#EXTINF:0,NBA 3 -
-http://23.237.120.98:25461/kratus/uttX8nlvr3/32
-#EXTINF:0,NBA 4 -
-http://23.237.120.98:25461/kratus/uttX8nlvr3/33
-#EXTINF:0,NBA 5 -
-http://23.237.120.98:25461/kratus/uttX8nlvr3/34
-#EXTINF:0,NBA 6 -
-http://23.237.120.98:25461/kratus/uttX8nlvr3/35
-#EXTINF:0,NBA 7 -
-http://23.237.120.98:25461/kratus/uttX8nlvr3/36
-#EXTINF:0,NBA 8 -
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/37
-#EXTINF:0,NBA 9 -
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/38
-#EXTINF:0,NFL  9 -
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/49
-#EXTINF:0,NFL 1 -
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/41
-#EXTINF:0,NFL 10 -
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/50
-#EXTINF:0,NFL 11 -
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/51
-#EXTINF:0,NFL 12 -
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/52
-#EXTINF:0,NFL 13 -
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/53
-#EXTINF:0,NFL 14 -
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/54
-#EXTINF:0,NFL 15 -
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/55
-#EXTINF:0,NFL 2 -
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/42
-#EXTINF:0,NFL 3 -
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/43
-#EXTINF:0,NFL 4 -
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/44
-#EXTINF:0,NFL 5 -
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/45
-#EXTINF:0,NFL 6 -
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/46
-#EXTINF:0,NFL 7 -
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/47
-#EXTINF:0,NFL 8 -
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/48
-#EXTINF:0,NHL 1 -
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/56
-#EXTINF:0,NHL 10 -
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/65
-#EXTINF:0,NHL 11 -
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/66
-#EXTINF:0,NHL 12 -
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/67
-#EXTINF:0,NHL 13 -
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/68
-#EXTINF:0,NHL 2 -
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/57
-#EXTINF:0,NHL 3 -
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/58
-#EXTINF:0,NHL 4 -
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/59
-#EXTINF:0,NHL 5 -
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/60
-#EXTINF:0,NHL 6 -
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/61
-#EXTINF:0,NHL 7 -
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/62
-#EXTINF:0,NHL 8 -
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/63
-#EXTINF:0,NHL 9 -
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/64
-
-#EXTINF:0,UK | 4Music
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/893
-#EXTINF:0,UK | 4Seven
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/894
-#EXTINF:0,UK | 5 Spike
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/895
-#EXTINF:0,UK | 5 Star
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/896
-#EXTINF:0,UK | 5 USA
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/897
-#EXTINF:0,UK | Alibi
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/917
-#EXTINF:0,UK | AMC
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/918
-#EXTINF:0,UK | Animal Planet
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/942
-#EXTINF:0,UK | Baby TV
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/965
-#EXTINF:0,UK | BBC Alba
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/911
-#EXTINF:0,UK | BBC Four
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/910
-#EXTINF:0,UK | BBC One
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/882
-#EXTINF:0,UK | BBC Three
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/964
-#EXTINF:0,UK | BBC Two
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/883
-#EXTINF:0,UK | BoxNation
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/454
-#EXTINF:0,UK | BT Sport ESPN
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/457
-#EXTINF:0,UK | BT Sports 1
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/455
-#EXTINF:0,UK | BT Sports 2
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/456
-#EXTINF:0,UK | BT Sports 3
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/464
-#EXTINF:0,UK | Cartoon Network
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/973
-#EXTINF:0,UK | CBBC
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/982
-#EXTINF:0,UK | CBS Action
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/981
-#EXTINF:0,UK | CBS Drama
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/906
-#EXTINF:0,UK | CBS Reality
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/907
-#EXTINF:0,UK | Challenge
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/912
-#EXTINF:0,UK | Channel 4
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/885
-#EXTINF:0,UK | Channel 5
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/886
-#EXTINF:0,UK | CNN
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/980
-#EXTINF:0,UK | Comedy Central
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/898
-#EXTINF:0,UK | Crime & Investigation
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/943
-#EXTINF:0,UK | Dave
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/905
-#EXTINF:0,UK | Discovery Channel
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/963
-#EXTINF:0,UK | Discovery History
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/939
-#EXTINF:0,UK | Discovery Science
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/940
-#EXTINF:0,UK | Discovery Shed
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/938
-#EXTINF:0,UK | Discovery Turbo
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/608
-#EXTINF:0,UK | Disney Channel
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/966
-#EXTINF:0,UK | Disney Jr
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/967
-#EXTINF:0,UK | Disney XD
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/968
-#EXTINF:0,UK | DMAX
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/961
-#EXTINF:0,UK | Drama
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/908
-#EXTINF:0,UK | E!
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/919
-#EXTINF:0,UK | E4
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/891
-#EXTINF:0,UK | EDEN
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/944
-#EXTINF:0,UK | EIR Sports 1
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/954
-#EXTINF:0,UK | EIR Sports 2
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/955
-#EXTINF:0,UK | Eurosports 1
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/956
-#EXTINF:0,UK | Eurosports 2
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/957
-#EXTINF:0,UK | Film 4
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/969
-#EXTINF:0,UK | Food Network
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/925
-#EXTINF:0,UK | FOX
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/926
-#EXTINF:0,UK | FOX News
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/972
-#EXTINF:0,UK | Front Runner
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/928
-#EXTINF:0,UK | Gold
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/909
-#EXTINF:0,UK | Good Food
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/970
-#EXTINF:0,UK | H2
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/959
-#EXTINF:0,UK | History
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/958
-#EXTINF:0,UK | Home
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/899
-#EXTINF:0,UK | Horror Channel
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/941
-#EXTINF:0,UK | Investigation Discovery
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/971
-#EXTINF:0,UK | ITV 1
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/884
-#EXTINF:0,UK | ITV 2
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/887
-#EXTINF:0,UK | ITV 3
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/888
-#EXTINF:0,UK | ITV 4
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/889
-#EXTINF:0,UK | ITV Be
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/890
-#EXTINF:0,UK | ITV Encore
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/974
-#EXTINF:0,UK | LFC TV
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/953
-#EXTINF:0,UK | Lifetime
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/920
-#EXTINF:0,UK | London Live
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/927
-#EXTINF:0,UK | Magic
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/977
-#EXTINF:0,UK | More 4
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/892
-#EXTINF:0,UK | MTV
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/978
-#EXTINF:0,UK | MUTV
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/951
-#EXTINF:0,UK | Nat Geo
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/960
-#EXTINF:0,UK | Nat Geo Wild
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/976
-#EXTINF:0,UK | Pick
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/900
-#EXTINF:0,UK | Premier Sports 1
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/465
-#EXTINF:0,UK | Premier Sports 2
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/952
-#EXTINF:0,UK | Racing UK
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/467
-#EXTINF:0,UK | Really
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/901
-#EXTINF:0,UK | RTE 1
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/947
-#EXTINF:0,UK | RTE 2
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/948
-#EXTINF:0,UK | RTE Jr
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/949
-#EXTINF:0,UK | RTE News
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/950
-#EXTINF:0,UK | S4C
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/921
-#EXTINF:0,UK | Sky 1
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/929
-#EXTINF:0,UK | Sky 2
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/930
-#EXTINF:0,UK | Sky Arts
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/933
-#EXTINF:0,UK | Sky Atlantic
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/931
-#EXTINF:0,UK | Sky Cinema Action
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/609
-#EXTINF:0,UK | Sky Cinema Comedy
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/610
-#EXTINF:0,UK | Sky Cinema Crime & Thriller
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/611
-#EXTINF:0,UK | Sky Cinema Disney
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/612
-#EXTINF:0,UK | Sky Cinema Drama
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/613
-#EXTINF:0,UK | Sky Cinema Family
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/614
-#EXTINF:0,UK | Sky Cinema Premier
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/615
-#EXTINF:0,UK | Sky Cinema SciFi & Horror
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/616
-#EXTINF:0,UK | Sky Cinema Select
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/617
-
-#EXTINF:0,UK | Sky Witness
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/932
-#EXTINF:0,UK | Sony
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/924
-#EXTINF:0,UK | Sony Crime
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/913
-#EXTINF:0,UK | SyFy
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/914
-#EXTINF:0,UK | TCM
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/979
-#EXTINF:0,UK | TLC
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/915
-#EXTINF:0,UK | Travel Channel
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/962
-#EXTINF:0,UK | True Movies
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/945
-#EXTINF:0,UK | Universal TV
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/922
-#EXTINF:0,UK | UTV
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/916
-#EXTINF:0,UK | Viceland
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/923
-#EXTINF:0,UK | Yesterday
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/975
-#EXTINF:0,USA  | ABC
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/70
-#EXTINF:0,USA |  News 12 Long Island - Traffic
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/268
-#EXTINF:0,USA | A&E
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/69
-#EXTINF:0,USA | ABC Atlanta
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/683
-#EXTINF:0,USA | ABC Boston
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/687
-#EXTINF:0,USA | ABC Charlotte
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/689
-#EXTINF:0,USA | ABC Chicago
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/650
-#EXTINF:0,USA | ABC Cleveland
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/693
-#EXTINF:0,USA | ABC Denver
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/688
-#EXTINF:0,USA | ABC Houston
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/651
-#EXTINF:0,USA | ABC Indianapolis
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/700
-#EXTINF:0,USA | ABC Los Angeles
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/652
-#EXTINF:0,USA | ABC Miami
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/705
-#EXTINF:0,USA | ABC Milwaukee
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/706
-#EXTINF:0,USA | ABC New York
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/653
-#EXTINF:0,USA | ABC News
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/71
-#EXTINF:0,USA | ABC Orlando
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/723
-#EXTINF:0,USA | ABC Philly
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/713
-#EXTINF:0,USA | ABC Phoenix
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/717
-#EXTINF:0,USA | ABC San Francisco
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/696
-#EXTINF:0,USA | ABC Tampa Bay
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/719
-#EXTINF:0,USA | ACC Network
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/72
-#EXTINF:0,USA | AMC
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/73
-#EXTINF:0,USA | American Heroes Channel
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/74
-#EXTINF:0,USA | Animal Planet
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/75
-#EXTINF:0,USA | Aspire TV
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/622
-#EXTINF:0,USA | BBC America
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/76
-#EXTINF:0,USA | beIN Sports
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/77
-#EXTINF:0,USA | BET
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/78
-#EXTINF:0,USA | BET Her
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/79
-#EXTINF:0,USA | Big Ten Network
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/80
-#EXTINF:0,USA | Bloomberg
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/620
-#EXTINF:0,USA | Boomerang
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/81
-#EXTINF:0,USA | Bounce TV
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/592
-#EXTINF:0,USA | Bravo
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/82
-#EXTINF:0,USA | Cartoon Network
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/83
-#EXTINF:0,USA | CBS
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/84
-#EXTINF:0,USA | CBS Atlanta
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/681
-#EXTINF:0,USA | CBS Boston
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/685
-#EXTINF:0,USA | CBS Charlotte
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/690
-#EXTINF:0,USA | CBS Chicago
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/654
-#EXTINF:0,USA | CBS Cleveland
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/667
-#EXTINF:0,USA | CBS Dallas
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/676
-#EXTINF:0,USA | CBS Denver
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/679
-#EXTINF:0,USA | CBS Houston
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/655
-#EXTINF:0,USA | CBS Jacksonville
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/656
-#EXTINF:0,USA | CBS Los Angeles
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/703
-#EXTINF:0,USA | CBS Miami
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/669
-#EXTINF:0,USA | CBS Milwaukee
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/707
-#EXTINF:0,USA | CBS New Orleans
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/710
-#EXTINF:0,USA | CBS New York
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/657
-#EXTINF:0,USA | CBS Orlando
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/724
-#EXTINF:0,USA | CBS Philly
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/715
-#EXTINF:0,USA | CBS Phoenix
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/714
-#EXTINF:0,USA | CBS San Francisco
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/697
-#EXTINF:0,USA | CBS Tampa Bay
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/720
-#EXTINF:0,USA | CBSN
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/85
-#EXTINF:0,USA | Cinemax East
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/87
-#EXTINF:0,USA | CMT
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/88
-#EXTINF:0,USA | CNBC
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/89
-#EXTINF:0,USA | CNN
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/90
-#EXTINF:0,USA | Comedy Central
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/91
-#EXTINF:0,USA | Cooking Channel
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/92
-#EXTINF:0,USA | Cozi TV
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/93
-#EXTINF:0,USA | Destination America
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/95
-#EXTINF:0,USA | Discovery Channel
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/96
-#EXTINF:0,USA | Discovery Family
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/97
-#EXTINF:0,USA | Discovery Life
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/98
-#EXTINF:0,USA | Discovery Science
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/99
-#EXTINF:0,USA | Disney Channel
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/100
-#EXTINF:0,USA | Disney Jr
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/101
-#EXTINF:0,USA | Disney XD
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/102
-#EXTINF:0,USA | DIY
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/103
-#EXTINF:0,USA | E!
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/104
-#EXTINF:0,USA | Eleven Sports
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/105
-#EXTINF:0,USA | EPIX
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/106
-#EXTINF:0,USA | EPIX 2
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/107
-#EXTINF:0,USA | EPIX Hits
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/108
-#EXTINF:0,USA | ESPN
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/109
-#EXTINF:0,USA | ESPN 2
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/110
-#EXTINF:0,USA | ESPN News
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/111
-#EXTINF:0,USA | ESPN U
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/112
-#EXTINF:0,USA | Fight Network
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/113
-#EXTINF:0,USA | Food Network
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/114
-#EXTINF:0,USA | FOX
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/115
-#EXTINF:0,USA | FOX Atlanta
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/684
-#EXTINF:0,USA | FOX Boston
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/686
-#EXTINF:0,USA | FOX Business Network
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/116
-#EXTINF:0,USA | FOX Chicago
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/692
-#EXTINF:0,USA | FOX Cleveland
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/694
-#EXTINF:0,USA | FOX Dallas
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/677
-#EXTINF:0,USA | FOX Denver
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/680
-#EXTINF:0,USA | Fox Deportes
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/117
-#EXTINF:0,USA | FOX Houston
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/658
-#EXTINF:0,USA | FOX Indianapolis
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/701
-#EXTINF:0,USA | FOX Jacksonville
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/674
-#EXTINF:0,USA | FOX Los Angeles
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/659
-#EXTINF:0,USA | FOX Miami
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/670
-#EXTINF:0,USA | FOX Milwaukee
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/708
-#EXTINF:0,USA | FOX New Orleans
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/711
-#EXTINF:0,USA | FOX New York
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/660
-#EXTINF:0,USA | FOX News
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/118
-#EXTINF:0,USA | FOX Orlando
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/725
-#EXTINF:0,USA | FOX Philly
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/671
-#EXTINF:0,USA | FOX Phoenix
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/661
-#EXTINF:0,USA | FOX San Francisco
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/698
-#EXTINF:0,USA | FOX Soccer Plus
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/119
-#EXTINF:0,USA | FOX Sports 1
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/120
-#EXTINF:0,USA | FOX Sports 2
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/121
-#EXTINF:0,USA | FOX Tampa Bay
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/721
-#EXTINF:0,USA | FreeForm
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/122
-#EXTINF:0,USA | Fuse
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/123
-#EXTINF:0,USA | FX
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/125
-#EXTINF:0,USA | FXM
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/126
-#EXTINF:0,USA | FXX
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/127
-#EXTINF:0,USA | FYI
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/128
-#EXTINF:0,USA | Galavision
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/129
-#EXTINF:0,USA | Golf Channel
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/130
-#EXTINF:0,USA | GRIT TV
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/557
-#EXTINF:0,USA | GSN
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/131
-#EXTINF:0,USA | Hallmark
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/132
-#EXTINF:0,USA | Hallmark Drama
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/133
-#EXTINF:0,USA | Hallmark Movies & Mysteries
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/134
-#EXTINF:0,USA | HBO
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/135
-#EXTINF:0,USA | HBO Comedy
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/748
-#EXTINF:0,USA | HBO Family
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/136
-#EXTINF:0,USA | HBO Signature
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/137
-#EXTINF:0,USA | HBO Zone
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/138
-#EXTINF:0,USA | HGTV
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/139
-#EXTINF:0,USA | History Channel
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/140
-#EXTINF:0,USA | HLN
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/141
-#EXTINF:0,USA | IFC
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/142
-#EXTINF:0,USA | Inverstigation Discovery
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/144
-#EXTINF:0,USA | Lifetime
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/145
-#EXTINF:0,USA | LMN
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/146
-#EXTINF:0,USA | Longhorn Network
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/147
-#EXTINF:0,USA | Marquee Sports Network
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/722
-#EXTINF:0,USA | Me TV
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/593
-#EXTINF:0,USA | MLB Network
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/148
-#EXTINF:0,USA | MSG
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/149
-#EXTINF:0,USA | MSG 2
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/150
-#EXTINF:0,USA | MSNBC
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/151
-#EXTINF:0,USA | MTV
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/152
-#EXTINF:0,USA | MTV 2
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/153
-#EXTINF:0,USA | My9
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/154
-#EXTINF:0,USA | Nat Geo
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/155
-#EXTINF:0,USA | Nat Geo Wild
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/156
-#EXTINF:0,USA | NBA TV
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/157
-#EXTINF:0,USA | NBC
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/158
-#EXTINF:0,USA | NBC Atlanta
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/682
-#EXTINF:0,USA | NBC Boston
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/664
-#EXTINF:0,USA | NBC Charlotte
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/691
-#EXTINF:0,USA | NBC Chicago
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/662
-#EXTINF:0,USA | NBC Cleveland
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/695
-#EXTINF:0,USA | NBC Dallas
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/678
-#EXTINF:0,USA | NBC Denver
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/673
-#EXTINF:0,USA | NBC Houston
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/672
-#EXTINF:0,USA | NBC Indianapolis
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/702
-#EXTINF:0,USA | NBC Jacksonville
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/675
-#EXTINF:0,USA | NBC Los Angeles
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/704
-#EXTINF:0,USA | NBC Milwaukee
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/709
-#EXTINF:0,USA | NBC New Orleans
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/712
-#EXTINF:0,USA | NBC New York
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/663
-#EXTINF:0,USA | NBC Orlando
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/726
-#EXTINF:0,USA | NBC Philly
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/716
-#EXTINF:0,USA | NBC Phoenix
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/718
-#EXTINF:0,USA | NBC San Francisco
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/699
-#EXTINF:0,USA | NBC Sports Bay Area
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/291
-#EXTINF:0,USA | NBC Sports Boston
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/292
-#EXTINF:0,USA | NBC Sports California
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/293
-#EXTINF:0,USA | NBC Sports Chicago
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/294
-#EXTINF:0,USA | NBC Sports Chicago Plus
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/881
-#EXTINF:0,USA | NBC Sports Northwest
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/295
-#EXTINF:0,USA | NBC Sports Philadelphia
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/296
-#EXTINF:0,USA | NBC Sports Washington
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/297
-#EXTINF:0,USA | NBC Sports Washington Plus
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/880
-#EXTINF:0,USA | NBC Universo
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/159
-#EXTINF:0,USA | NBCSN
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/160
-#EXTINF:0,USA | NESN +
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/632
-#EXTINF:0,USA | News 12 Brooklyn
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/262
-#EXTINF:0,USA | News 12 Connecticut
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/263
-#EXTINF:0,USA | News 12 Connecticut - Traffic
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/264
-#EXTINF:0,USA | News 12 Hudson Valley
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/266
-#EXTINF:0,USA | News 12 Long Island
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/267
-#EXTINF:0,USA | News 12 New Jersey
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/269
-#EXTINF:0,USA | News 12 New Jersey - Traffic
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/270
-#EXTINF:0,USA | News 12 New York City - Traffic
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/271
-#EXTINF:0,USA | News 12 The Bronx
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/272
-#EXTINF:0,USA | News 12 Westchester
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/273
-#EXTINF:0,USA | NewsMax
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/623
-#EXTINF:0,USA | NFL Network
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/161
-#EXTINF:0,USA | NFL Red Zone
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/162
-#EXTINF:0,USA | NHL Network
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/163
-#EXTINF:0,USA | Nick
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/164
-#EXTINF:0,USA | Nick Jr
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/165
-#EXTINF:0,USA | Nicktoons
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/166
-#EXTINF:0,USA | Outdoor Channel
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/167
-#EXTINF:0,USA | Outside TV
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/168
-#EXTINF:0,USA | OWN
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/169
-#EXTINF:0,USA | Oxygen
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/170
-#EXTINF:0,USA | PAC-12 Bay Area
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/634
-#EXTINF:0,USA | PAC-12 Los Angeles
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/635
-#EXTINF:0,USA | PAC-12 Mountain
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/172
-#EXTINF:0,USA | Pac-12 Network
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/171
-#EXTINF:0,USA | PAC-12 Oregon
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/175
-#EXTINF:0,USA | Paramount
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/176
-#EXTINF:0,USA | PBS Kids
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/177
-#EXTINF:0,USA | PoP
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/178
-#EXTINF:0,USA | SEC Network
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/179
-#EXTINF:0,USA | Showtime
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/180
-#EXTINF:0,USA | Showtime 2
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/181
-#EXTINF:0,USA | Showtime Extreme
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/182
-#EXTINF:0,USA | Smithsonian Channel
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/184
-#EXTINF:0,USA | SNY
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/185
-#EXTINF:0,USA | Spectrum Sportsnet LA Dodgers
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/749
-#EXTINF:0,USA | Spectrum Sportsnet LA Lakers
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/508
-#EXTINF:0,USA | Starz
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/187
-#EXTINF:0,USA | Starz Edge
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/188
-#EXTINF:0,USA | Starz Encore Westerns
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/189
-#EXTINF:0,USa | Starz in Black
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/190
-#EXTINF:0,USA | Sundance
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/191
-#EXTINF:0,USA | SyFy
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/192
-#EXTINF:0,USA | TBS
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/193
-#EXTINF:0,USA | TCM
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/194
-#EXTINF:0,USA | Telemundo
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/195
-#EXTINF:0,USA | Telemundo Chicago
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/196
-#EXTINF:0,USA | Telemundo LA
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/197
-#EXTINF:0,USA | Telemundo Miami
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/198
-#EXTINF:0,USA | Telemundo Texas
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/199
-#EXTINF:0,USA | Tennis Channel
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/200
-#EXTINF:0,USA | The CW 11
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/94
-#EXTINF:0,USA | The CW Network
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/747
-#EXTINF:0,USA | The Weather Channel
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/201
-#EXTINF:0,USA | TLC
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/202
-#EXTINF:0,USA | TNT
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/203
-#EXTINF:0,USA | Travel Channel
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/204
-#EXTINF:0,USA | TruTV
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/205
-#EXTINF:0,USA | TUDN
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/206
-#EXTINF:0,USA | TV Land
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/207
-#EXTINF:0,USA | TV One
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/208
-#EXTINF:0,USA | TVG
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/209
-#EXTINF:0,USA | UFC Fight Pass
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/210
-#EXTINF:0,USA | UniMas Chicago
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/740
-#EXTINF:0,USA | UniMas Dallas
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/744
-#EXTINF:0,USA | UniMas Houston
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/738
-#EXTINF:0,USA | UniMas Los Angeles
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/742
-#EXTINF:0,USA | UniMas Miami
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/741
-#EXTINF:0,USA | UniMas New York
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/743
-#EXTINF:0,USA | UniMas Philly
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/739
-#EXTINF:0,USA | Universal Kids
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/211
-#EXTINF:0,USA | Univision
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/212
-#EXTINF:0,USA | Univision Chicago
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/732
-#EXTINF:0,USA | Univision Los Angeles
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/734
-#EXTINF:0,USA | Univision New York
-http://23.237.120.98:25461/kratus/uttX8nlvr3/736
-#EXTINF:0,USA | Univision Arizona
-http://23.237.120.98:25461/kratus/uttX8nlvr3/737
-#EXTINF:0,USA | USA Network
-http://23.237.120.98:25461/kratus/uttX8nlvr3/213
-#EXTINF:0,USA | MotorTrend
-http://23.237.120.98:25461/kratus/uttX8nlvr3/214
-#EXTINF:0,USA | VH1
-http://23.237.120.98:25461/kratus/uttX8nlvr3/215
-#EXTINF:0,USA | Viceland
-http://23.237.120.98:25461/kratus/uttX8nlvr3/216
-#EXTINF:0,USA | WE TV
-http://23.237.120.98:25461/kratus/uttX8nlvr3/217
-#EXTINF:0,USA | Wolrd Fishing Network
-http://23.237.120.98:25461/kratus/uttX8nlvr3/218
-#EXTINF:0,USA | Worcester - WCCA TV 13
-http://23.237.120.98:25461/kratus/uttX8nlvr3/274
-#EXTINF:0,USA | WWE Network
-http://23.237.120.98:25461/kratus/uttX8nlvr3/219
-#EXTINF:0,USA | YES Network
-http://23.237.120.98:25461/kratus/uttX8nlvr3/220
-
-#EXTINF:0,DR | TeleNord Canal 8
-http://23.237.120.98:25461/kratus/uttX8nlvr3/1000
-#EXTINF:0,DR | TeleNord Canal 10
-http://23.237.120.98:25461/kratus/uttX8nlvr3/1001
-#EXTINF:0,DR | TeleFuturo
-http://23.237.120.98:25461/kratus/uttX8nlvr3/1002
-#EXTINF:0,DR | TeleCentro
-http://23.237.120.98:25461/kratus/uttX8nlvr3/1003
-#EXTINF:0,DR | Telecanal 12
-http://23.237.120.98:25461/kratus/uttX8nlvr3/1004
-#EXTINF:0,DR | Tele Cotui
-http://23.237.120.98:25461/kratus/uttX8nlvr3/1005
-#EXTINF:0,DR | Tele Canal 28
-http://23.237.120.98:25461/kratus/uttX8nlvr3/1006
-#EXTINF:0,DR | Tele Antillas
-http://23.237.120.98:25461/kratus/uttX8nlvr3/1007
-#EXTINF:0,DR | Super TV 55
-http://23.237.120.98:25461/kratus/uttX8nlvr3/1008
-#EXTINF:0,DR | SI TV
-http://23.237.120.98:25461/kratus/uttX8nlvr3/1009
-#EXTINF:0,DR | Romana TV 42
-http://23.237.120.98:25461/kratus/uttX8nlvr3/1010
-#EXTINF:0,DR | Ready TV Canal 6
-http://23.237.120.98:25461/kratus/uttX8nlvr3/1011
-#EXTINF:0,DR | Orbit TV
-http://23.237.120.98:25461/kratus/uttX8nlvr3/1012
-#EXTINF:0,DR | Onda TV
-http://23.237.120.98:25461/kratus/uttX8nlvr3/1013
-#EXTINF:0,DR | MicroVision
-http://23.237.120.98:25461/kratus/uttX8nlvr3/1014
-#EXTINF:0,DR | Luna TV Canal 53
-http://23.237.120.98:25461/kratus/uttX8nlvr3/1015
-#EXTINF:0,DR | Ciber Vision
-http://23.237.120.98:25461/kratus/uttX8nlvr3/1016
-#EXTINF:0,DR | Certv Canal 4
-http://23.237.120.98:25461/kratus/uttX8nlvr3/1017
-#EXTINF:0,DR | CariVision
-http://23.237.120.98:25461/kratus/uttX8nlvr3/1018
-#EXTINF:0,DR | Canal 25 Santiago
-http://23.237.120.98:25461/kratus/uttX8nlvr3/1019
-#EXTINF:0,DR | Bonao TV Canal 12
-http://23.237.120.98:25461/kratus/uttX8nlvr3/1020
-#EXTINF:0,DR | Bajo Techo TV
-http://23.237.120.98:25461/kratus/uttX8nlvr3/1021
-#EXTINF:0,USA | Sportsman Channel
-http://23.237.120.98:25461/kratus/uttX8nlvr3/1023
-#EXTINF:0,USA | Western4U
-http://23.237.120.98:25461/kratus/uttX8nlvr3/1024
-#EXTINF:0,USA | NBC Lancaster
-http://23.237.120.98:25461/kratus/uttX8nlvr3/1026
-#EXTINF:0,USA | BET Jams
-http://23.237.120.98:25461/kratus/uttX8nlvr3/1027
-#EXTINF:0,USA | BET Souls
-http://23.237.120.98:25461/kratus/uttX8nlvr3/1028
-#EXTINF:0,USA | INSP
-http://23.237.120.98:25461/kratus/uttX8nlvr3/1029
-#EXTINF:0,USA | LOGO
-http://23.237.120.98:25461/kratus/uttX8nlvr3/1030
-#EXTINF:0,USA | Revolt
-http://23.237.120.98:25461/kratus/uttX8nlvr3/1031
-
-#EXTINF:0,Canada | A&E
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/752
-#EXTINF:0,Canada | ABC
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/753
-#EXTINF:0,Canada | ABC Spark
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/754
-#EXTINF:0,Canada | Addik French
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/877
-#EXTINF:0,Canada | AMC
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/755
-#EXTINF:0,Canada | Animal Planet
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/756
-#EXTINF:0,Canada | BBC News
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/758
-#EXTINF:0,Canada | BBC World News
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/759
-#EXTINF:0,Canada | BNN
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/760
-#EXTINF:0,Canada | BNN Bloomberg
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/761
-#EXTINF:0,Canada | Canal D French
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/763
-#EXTINF:0,Canada | Cartoon Network
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/765
-#EXTINF:0,Canada | Casa French
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/766
-#EXTINF:0,Canada | CBC
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/767
-#EXTINF:0,Canada | CBC Calgary
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/769
-#EXTINF:0,Canada | CBC Charlottetown
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/770
-#EXTINF:0,Canada | CBC Halifax
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/772
-#EXTINF:0,Canada | CBC Montreal
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/773
-#EXTINF:0,Canada | CBC News
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/774
-#EXTINF:0,Canada | CBC Ottawa
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/775
-#EXTINF:0,Canada | CBC Regina
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/768
-#EXTINF:0,Canada | CBC Toronto
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/776
-#EXTINF:0,Canada | CBC Vancouver
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/777
-#EXTINF:0,Canada | CBC Windsor
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/778
-#EXTINF:0,Canada | CBC Winnipeg
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/779
-#EXTINF:0,Canada | CHCH
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/780
-#EXTINF:0,Canada | CITY Calgary
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/784
-#EXTINF:0,Canada | City Montreal
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/781
-#EXTINF:0,Canada | CITY Toronto
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/782
-#EXTINF:0,Canada | CITY Vancouver
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/783
-#EXTINF:0,Canada | CMT
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/785
-#EXTINF:0,Canada | CNN International
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/787
-#EXTINF:0,Canada | Comedy
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/788
-#EXTINF:0,Canada | Cooking Channel
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/789
-#EXTINF:0,Canada | Cottage Life
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/790
-#EXTINF:0,Canada | Crave 1
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/792
-#EXTINF:0,Canada | Crave 2
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/793
-#EXTINF:0,Canada | Crave 3
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/794
-#EXTINF:0,Canada | Crave 4
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/795
-#EXTINF:0,Canada | CTV 2 Ottawa
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/804
-#EXTINF:0,Canada | CTV 2 Vancouver
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/796
-#EXTINF:0,Canada | CTV Calgary
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/805
-#EXTINF:0,Canada | CTV Kitchener
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/874
-#EXTINF:0,Canada | CTV Ottawa
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/800
-#EXTINF:0,Canada | CTV Syfy
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/801
-#EXTINF:0,Canada | CTV Vancouver
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/803
-#EXTINF:0,Canada | Daystar
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/806
-#EXTINF:0,Canada | Dejaview
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/807
-#EXTINF:0,Canada | Discovery Channel
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/809
-#EXTINF:0,Canada | Discovery Science
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/808
-#EXTINF:0,Canada | Disney Jr
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/810
-#EXTINF:0,Canada | Disney XD
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/811
-#EXTINF:0,Canada | DIY Network
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/812
-#EXTINF:0,Canada | E!
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/813
-#EXTINF:0,Canada | Food Network
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/817
-#EXTINF:0,Canada | FOX
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/819
-#EXTINF:0,Canada | FOX News
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/818
-#EXTINF:0,Canada | FXX
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/814
-#EXTINF:0,Canada | Globa Vancouver
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/823
-#EXTINF:0,Canada | Global
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/824
-#EXTINF:0,Canada | Global Halifax
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/821
-#EXTINF:0,Canada | Global Toronto
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/822
-#EXTINF:0,Canada | GSN
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/820
-#EXTINF:0,Canada | Gusto
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/825
-#EXTINF:0,Canada | H2
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/826
-#EXTINF:0,Canada | HBO
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/828
-#EXTINF:0,Canada | HBO 2
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/827
-#EXTINF:0,Canada | History
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/829
-#EXTINF:0,Canada | HLN
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/815
-#EXTINF:0,Canada | IFC
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/876
-#EXTINF:0,Canada | Investigation Discovery
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/832
-#EXTINF:0,Canada | Knowledge Kids
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/833
-#EXTINF:0,Canada | LCN French
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/834
-#EXTINF:0,Canada | Lifetime
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/836
-#EXTINF:0,Canada | LMN
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/835
-#EXTINF:0,Canada | Love Nature
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/837
-#EXTINF:0,Canada | Makeful
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/838
-#EXTINF:0,Canada | MAV TV
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/839
-#EXTINF:0,Canada | MAX
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/840
-#EXTINF:0,Canada | MAX French
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/878
-#EXTINF:0,Canada | Miracle
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/841
-#EXTINF:0,Canada | Movietime
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/842
-#EXTINF:0,Canada | MTV 2
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/843
-#EXTINF:0,Canada | MUCH
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/844
-#EXTINF:0,Canada | Music Plus French
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/845
-#EXTINF:0,Canada | Nat Geo
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/846
-#EXTINF:0,Canada | Nat Geo Wild
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/847
-#EXTINF:0,Canada | Nicktoons
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/848
-#EXTINF:0,Canada | NTV
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/849
-#EXTINF:0,Canada | OLN
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/850
-#EXTINF:0,Canada | OMNI 1
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/851
-#EXTINF:0,Canada | OMNI 2
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/852
-#EXTINF:0,Canada | ONE
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/853
-#EXTINF:0,Canada | Paramount/Spike
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/854
-#EXTINF:0,Canada | Peach Tree
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/855
-#EXTINF:0,Canada | Prise
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/856
-#EXTINF:0,Canada | Series Plus
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/857
-#EXTINF:0,Canada | Shopping
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/858
-#EXTINF:0,Canada | Silver Screen Clssics
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/859
-#EXTINF:0,Canada | Slice
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/816
-#EXTINF:0,Canada | Smithsonian Channel
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/860
-#EXTINF:0,Canada | Sportsnet 360
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/468
-#EXTINF:0,Canada | Sportsnet East
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/607
-#EXTINF:0,Canada | Sportsnet One
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/470
-#EXTINF:0,Canada | Sportsnet Ontario
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/471
-#EXTINF:0,Canada | Sportsnet World
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/473
-#EXTINF:0,Canada | Super Ecran 2
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/861
-#EXTINF:0,Canada | Super Ecran 3
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/862
-#EXTINF:0,Canada | Super Ecran 4
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/863
-#EXTINF:0,Canada | Tele Quebec French
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/879
-#EXTINF:0,Canada | Teletoon
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/864
-#EXTINF:0,Canada | The Weather Network
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/869
-#EXTINF:0,Canada | Travel Escape
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/865
-#EXTINF:0,Canada | Treehouse
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/866
-#EXTINF:0,Canada | TSN 1
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/605
-#EXTINF:0,Canada | TSN 2
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/475
-#EXTINF:0,Canada | TSN 3
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/606
-#EXTINF:0,Canada | TSN 4
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/477
-#EXTINF:0,Canada | TSN 5
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/478
-#EXTINF:0,Canada | TVO
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/867
-#EXTINF:0,Canada | Vision TV
-
-http://23.237.120.98:25461/kratus/uttX8nlvr3/868
-#EXTINF:0,Canada | WFN
-http://23.237.120.98:25461/kratus/uttX8nlvr3/870
-#EXTINF:0,Canada | WGN
-http://23.237.120.98:25461/kratus/uttX8nlvr3/871
-#EXTINF:0,Canada | Wild TV
-http://23.237.120.98:25461/kratus/uttX8nlvr3/872
-#EXTINF:0,Canada | Yes TV
-http://23.237.120.98:25461/kratus/uttX8nlvr3/873
-#EXTINF:0,Discovery Family
-http://23.237.120.98:25461/kratus/uttX8nlvr3/544
-#EXTINF:0,DR | TeleNovisa 43
-http://23.237.120.98:25461/kratus/uttX8nlvr3/904
-#EXTINF:0,DR | Valle Vision
-http://23.237.120.98:25461/kratus/uttX8nlvr3/903
-#EXTINF:0,DR | Yuna Vision Canal 10
-http://23.237.120.98:25461/kratus/uttX8nlvr3/902
+#EXTINF:0,MyC - ANIMAL PLANET
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3247
+#EXTINF:0,CINE - AXN
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3248
+#EXTINF:0,CINE - A&E
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3246
+#EXTINF:0,MUS - BANDAMAX
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3086
+#EXTINF:0,INF - BOOMERANG
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3085
+#EXTINF:0,INF - BABY FIRST
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/2958
+#EXTINF:0,LAT - UNIVISION HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3796
+#EXTINF:0,LAT - UNIVISION MIAMI
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3177
+#EXTINF:0,LAT - UNIVISION NEW YORK
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/2021
+#EXTINF:0,LAT - TELEMUNDO BOSTON
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3794
+#EXTINF:0,MUS - MTV HITS
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3191
+#EXTINF:0,COL - CARACOL SD
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/4094
+#EXTINF:0,COL - CARACOL HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3213
+#EXTINF:0,COL - RCN
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/4002
+#EXTINF:0,COL - RCN HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3415
+#EXTINF:0,COL - CITYTV
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/1987
+#EXTINF:0,ENT -LIFETIME
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3073
+#EXTINF:0,CINE - I-SAT
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3074
+#EXTINF:0,MyC - HISTORY
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3234
+#EXTINF:0,CINE - HBO
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3199
+#EXTINF:0,CINE - HBO 2
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3198
+#EXTINF:0,CINE - HBO SIGNATURE
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3197
+#EXTINF:0,CINE - HBO PLUS
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/4003
+#EXTINF:0,CINE - HBO FAMILY 
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/4017
+#EXTINF:0,LD - ESPN PLUS SUR FHD
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/7940
+#EXTINF:0,CHILE - CDF
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/16138
+#EXTINF:0,CINE - FOX PREMIUM MOVIES
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3266
+#EXTINF:0,CINE - FOX PREMIUM SERIES.
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3262
+#EXTINF:0,CINE - FOX PREMIUM CINEMA
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3264
+#EXTINF:0,FHD - FOX PREMIUM CINEMA
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/8238
+#EXTINF:0,CINE - FOX PREMIUM COMEDY
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3102
+#EXTINF:0,FHD - FOX PREMIUM COMEDY
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/8234
+#EXTINF:0,CINE - FOX PREMIUM CLASSICS
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3077
+#EXTINF:0,FHD - FOX PREMIUM CLASSICS
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/8237
+#EXTINF:0,CINE - FOX PREMIUM ACTION
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3263
+#EXTINF:0,FHD - FOX PREMIUM ACTION
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/4019
+#EXTINF:0,CINE - FOX PREMIUM FAMILY
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/4032
+#EXTINF:0,FHD - FOX PREMIUM FAMILY
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/4084
+#EXTINF:0,LD - UNIVISION TUDN HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/4117
+#EXTINF:0,LD - UNIVISION TUDN USA
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3751
+#EXTINF:0,US.SP - PAC 12 LOS ANGELES
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3364
+#EXTINF:0,US.SP - PAC 12 WASHINGTON
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3373
+#EXTINF:0,US.SP - PAC 12 NETWORK
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3375
+#EXTINF:0,US.SP - PAC 12 OREGON
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3374
+#EXTINF:0,US.SP - PAC 12 ARIZONA
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3799
+#EXTINF:0,US.SP - PAC 12 BAY AREA
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3368
+#EXTINF:0,US.SP - PAC 12 MOUNTAIN
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3369
+#EXTINF:0,US.SP - ESPN
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3371
+#EXTINF:0,US.SP - ESPN 2
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3372
+#EXTINF:0,LD - FOX DEPORTES USA HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3753
+#EXTINF:0,LD - ESPN DEPORTES HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3613
+#EXTINF:0,LD - DIRECTV SPORTS PLUS
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/8520
+#EXTINF:0,LD - FOX SPORTS MX
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3267
+#EXTINF:0,LD - FOX SPORTS 2 MX
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3268
+#EXTINF:0,LD - FOX SPORTS 3 MX
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/4008
+#EXTINF:0,LD - ESPN 2 MX
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3258
+#EXTINF:0,LD - ESPN MX
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3178
+#EXTINF:0,LD - ESPN 3 MX
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3260
+#EXTINF:0,LD - ESPN PLUS MX
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/4120
+#EXTINF:0,CHILE - ESTADIO CDF
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/6979
+#EXTINF:0,CHILE - MEGA
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3343
+#EXTINF:0,CHILE - MEGA PLUS
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/22562
+#EXTINF:0,CHILE - TVN
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3592
+#EXTINF:0,CHILE - CHILEVISION
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3591
+#EXTINF:0,CHILE - CANAL 13
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3853
+#EXTINF:0,CHILE - ESPN 2 CHILE
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/2047
+#EXTINF:0,LD - ESPN 1 SUR HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3614
+#EXTINF:0,LD - ESPN 2 SUR HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3616
+#EXTINF:0,LD - ESPN 3 SUR HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3615
+#EXTINF:0,LD - TYC SPORTS HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3759
+#EXTINF:0,LAT - UNIMAS DALLAS
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3795
+#EXTINF:0,MyC - NATGEO MUNDO
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3774
+#EXTINF:0,MyC - RT ESPAÑOL
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/2064
+#EXTINF:0,MyC - DW LATINOAMERICA
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/2102
+#EXTINF:0,LD - UFC FIGHT LATINOAMERICA
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3421
+#EXTINF:0,ARG - TV PUBLICA SD
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3417
+#EXTINF:0,COL - WIN SPORTS HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3057
+#EXTINF:0,NTV - 02 [MANCHESTER UNITED VS LEICESTER CITY EN VIVO]
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/16143
+#EXTINF:0,VEN - TELESUR TV
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/2043
+#EXTINF:0,ES - ANDALUCIA TURISMO
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3610
+#EXTINF:0,ARG - C5N HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3441
+#EXTINF:0,ARG - CANAL 26
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3442
+#EXTINF:0,ARG - CRONICA
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/4188
+#EXTINF:0,ARG - TLX
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3437
+#EXTINF:0,ARG - A24 SD
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3359
+#EXTINF:0,RADIO - LA CIEN - UY
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/23210
+#EXTINF:0,MEX - CANAL DE LAS ESTRELLAS
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3243
+#EXTINF:0,MEX - CANAL 5
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3244
+#EXTINF:0,MEX - AZTECA 7
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3215
+#EXTINF:0,MEX - AZTECA UNO
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3216
+#EXTINF:0,MEX - AZTECA UNO HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/4087
+#EXTINF:0,MEX - TDN HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3397
+#EXTINF:0,MEX - AFIZZIONADOS
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/8248
+#EXTINF:0,MEX - FORO TV
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/4029
+#EXTINF:0,MEX - MULTIMEDIOS MONTERREY
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/4125
+#EXTINF:0,MEX - TELEVISA MTY
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/4066
+#EXTINF:0,MEX - AZ CORAZON
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/4026
+#EXTINF:0,MEX - AZ CLICK
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3245
+#EXTINF:0,MEX - AZ CINEMA
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/2954
+#EXTINF:0,MEX - AZ MUNDO
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3087
+#EXTINF:0,MEX - PROYECTO 40 FHD
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3185
+#EXTINF:0,MEX - ADN 40
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/4025
+#EXTINF:0,LD - AYM SPORTS
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3089
+#EXTINF:0,LD - TVC DEPORTES
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/4139
+#EXTINF:0,CINE - DE PELICULA PLUS
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3239
+#EXTINF:0,LAT - GALAVISION
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3793
+#EXTINF:0,MEX - MILENIO TV
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3233
+#EXTINF:0,MEX - MEXIQUENSE
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3182
+#EXTINF:0,CINE - DE PELICULA
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/2997
+#EXTINF:0,MyC - DISCOVERY  HOME & HEALTH
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3083
+#EXTINF:0,MyC - DISCOVERY CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3251
+#EXTINF:0,CINE - FOX LIFE
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3203
+#EXTINF:0,MyC - HGTV
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3252
+#EXTINF:0,INF - DISCOVERY KIDS
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3254
+#EXTINF:0,CINE - CINECANAL
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3250
+#EXTINF:0,INF - TOONCAST
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3242
+#EXTINF:0,INF - CARTOON NETWORK
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3249
+#EXTINF:0,MyC - DISCOVERY TLC
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3256
+#EXTINF:0,ENT -DISCOVERY TURBO
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3257
+#EXTINF:0,MyC - DISCOVERY WORLD
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3081
+#EXTINF:0,LAT - FIGHTING SPORTS NETWORK
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/2962
+#EXTINF:0,INF - DISNEY JUNIOR
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3222
+#EXTINF:0,MEX - DISTRITO COMEDIA
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3209
+#EXTINF:0,MyC - NATGEO WILD
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3270
+#EXTINF:0,ENT -E! ENTERTAINMENT
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3207
+#EXTINF:0,INF - DISNEY XD
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3221
+#EXTINF:0,CINE - CINEMAX
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3084
+#EXTINF:0,US.SP - FOX SPORTS 1
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/2048
+#EXTINF:0,US.SP - FOX SPORTS 2
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/2044
+#EXTINF:0,US.SP - FIGHT CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3380
+#EXTINF:0,US.SP - FIGHT NETWORK
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3378
+#EXTINF:0,ARG - NET TV HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3356
+#EXTINF:0,US.FM - FANTASY ZONE
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3695
+#EXTINF:0,US.EN - FIGHT
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3693
+#EXTINF:0,US.SP - FOX SPORTS SUN
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3707
+#EXTINF:0,US.FM - FUBO SPORTS NETWORK
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3699
+#EXTINF:0,US.SP - FOOTBALL REPORTS TV
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3760
+#EXTINF:0,US.SP - FOX SOCCER PLUS
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3754
+#EXTINF:0,US.WC - FOX 5
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3624
+#EXTINF:0,US.FM - FOX LIFE
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3766
+#EXTINF:0,US.FM - FUSE
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3767
+#EXTINF:0,US.FM - FX
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3768
+#EXTINF:0,US.FM - FXM
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3769
+#EXTINF:0,US.FM - FXX
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3770
+#EXTINF:0,US.FM - FYI
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3771
+#EXTINF:0,ARG - CIUDAD MAGAZINE
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3787
+#EXTINF:0,PERU - MOVISTAR DEPORTES
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3606
+#EXTINF:0,COL - CABLENOTICIAS
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/2119
+#EXTINF:0,COL - CANAL UNO
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/2120
+#EXTINF:0,MLB - NETWORK
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3224
+#EXTINF:0,COL - TELEANTIOQUIA
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/2118
+#EXTINF:0,COL - TELECAFE
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/2128
+#EXTINF:0,COL - RCN NOVELAS HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/2125
+#EXTINF:0,COL - SEÑAL COLOMBIA
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/2163
+#EXTINF:0,VEN - GLOBOVISION SD
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/18600
+#EXTINF:0,VEN - PROMAR SD
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/18599
+#EXTINF:0,VEN - VENEZOLANA DE TELEVISION
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/18596
+#EXTINF:0,VEN - TVES
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/18597
+#EXTINF:0,VEN - VENEVISION
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/18595
+#EXTINF:0,VEN - VENEVISION PLUS
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/18593
+#EXTINF:0,VEN - TVO
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/18598
+#EXTINF:0,CR - TIGO SPORTS
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/18594
+#EXTINF:0,ENT -COMEDY CENTRAL
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3241
+#EXTINF:0,CR - REPRETEL 11
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/8149
+#EXTINF:0,CR - REPRETEL 4
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/8150
+#EXTINF:0,CR - REPRETEL 6
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/8151
+#EXTINF:0,CR - TELETICA 7
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/8148
+#EXTINF:0,CR - MULTIMEDIOS
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/2033
+#EXTINF:0,MEX - CANAL ONCE
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3269
+#EXTINF:0,ESP - TOROS HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/2061
+#EXTINF:0,ESP - VIAJAR HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3174
+#EXTINF:0,ES - B LA LIGA HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3117
+#EXTINF:0,ES - TNT
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3138
+#EXTINF:0,ES - TELEDEPORTE FHD
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3173
+#EXTINF:0,ES - TELECINCO HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3172
+#EXTINF:0,ES - TCM HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3171
+#EXTINF:0,ES - PANDA
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3136
+#EXTINF:0,ES - ODISEA
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3135
+#EXTINF:0,ES - NEOX
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3132
+#EXTINF:0,ES - FDF
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3169
+#EXTINF:0,ES - TAQUILLA 1
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3097
+#EXTINF:0,ES - MOVISTAR MOTO GP FHD
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3096
+#EXTINF:0,ES - MOVISTAR FORMULA 1
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3094
+#EXTINF:0,ES - MEGA
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3167
+#EXTINF:0,ES - LA SEXTA HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3166
+#EXTINF:0,ES - BAR TV
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3131
+#EXTINF:0,ES - LA 2 HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3130
+#EXTINF:0,ES - LA 1 HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3165
+#EXTINF:0,ES - LIGA DE CAMPEONES  FHD
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/16717
+#EXTINF:0,PAN - MAS TV 23
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/16718
+#EXTINF:0,PAN - ECO TV
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/16719
+#EXTINF:0,HON - SITV
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/16720
+#EXTINF:0,HON - CANAL 11
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/16721
+#EXTINF:0,HON - SUYAPA
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/16722
+#EXTINF:0,COL - WIN SPORTS + HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/16723
+#EXTINF:0,COL - WIN SPORTS + FHD
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/16724
+#EXTINF:0,ES - MOVISTAR FUTBOL FHD
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3129
+#EXTINF:0,ES - HOLLYWOOD HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3164
+#EXTINF:0,ES - HISTORIA
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3163
+#EXTINF:0,ES - GOL TV
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3128
+#EXTINF:0,ES - FOX LIFE HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3162
+#EXTINF:0,ES - FOX HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3161
+#EXTINF:0,ES - NOVA
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3108
+#EXTINF:0,ES - ENERGY
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3109
+#EXTINF:0,ES - DIVINITY
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3126
+#EXTINF:0,ES - COMEDY CENTRAL HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3103
+#EXTINF:0,ES - CLAN TVE
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3124
+#EXTINF:0,ES - CAZA Y PESCA
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3123
+#EXTINF:0,ES - MOVISTAR XTRA
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3154
+#EXTINF:0,ES - MOVISTAR TOROS TV
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3153
+#EXTINF:0,ES - IBERALIA
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3152
+#EXTINF:0,ES - PARTIDAZO (live event)
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3151
+#EXTINF:0,ES - MOVISTAR FUTBOL HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3148
+#EXTINF:0,ES - CANAL GOLF HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3149
+#EXTINF:0,BRA - GLOBO NEWS
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/7771
+#EXTINF:0,BRA - GLOOB
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/7772
+#EXTINF:0,BRA - SBT
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/7768
+#EXTINF:0,BRA - SPORT TV 1
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/7787
+#EXTINF:0,BRA - SPORT TV 2
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/7788
+#EXTINF:0,BRA - SPORT TV 3
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/7789
+#EXTINF:0,BRA - TELECINE ACTION
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/7780
+#EXTINF:0,BRA - TELECINE CULT
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/7781
+#EXTINF:0,BRA - TELECINE PREMIUM
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/7782
+#EXTINF:0,BRA - ESPORTE INTERATIVO
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/7791
+#EXTINF:0,BRA - ESPORTE INTERATIVO 2
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/7792
+#EXTINF:0,BRA - TELECINE FUN
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/7783
+#EXTINF:0,BRA - ESPN
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/7784
+#EXTINF:0,BRA - FOX SPORTS BR
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/7785
+#EXTINF:0,BRA - FOX SPORTS 2 BR
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/7786
+#EXTINF:0,BRA - TV BRASIL
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/7769
+#EXTINF:0,BRA - MAIS GLOBOSAT
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/7777
+#EXTINF:0,BRA - FISH TV
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/7779
+#EXTINF:0,BRA - FUTURA
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/7776
+#EXTINF:0,BRA - REDE TV
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/7775
+#EXTINF:0,CINP - ULTRA DOCU
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/8182
+#EXTINF:0,CINP - ULTRA CINE
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/8181
+#EXTINF:0,CINP - ULTRA TAINMENT
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/8180
+#EXTINF:0,CINP - ULTRA CLASICO
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/8179
+#EXTINF:0,CINP - ULTRA FILM
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/8178
+#EXTINF:0,CINP - ULTRA KIDS
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/8177
+#EXTINF:0,CINP - ULTRA LUNA
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/8176
+#EXTINF:0,CINP - ULTRA MACHO
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/8175
+#EXTINF:0,CINP - ULTRA MEX
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/8174
+#EXTINF:0,CINP - STARZ HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/8132
+#EXTINF:0,CINP - STARZ IN BLACK
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/8137
+#EXTINF:0,CINP - STARZ CINEMA HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/8136
+#EXTINF:0,CINP - STARZ COMEDY HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/8135
+#EXTINF:0,CINP - STARZ KIDS & FAMILY
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/8133
+#EXTINF:0,CINP - STARZ WESTERN HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/8134
+#EXTINF:0,CINP - STARZ FAMILY HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/8131
+#EXTINF:0,CINP - STARZ ENCORE HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/8126
+#EXTINF:0,CINP - STARZ ENCORE ACTION HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/8128
+#EXTINF:0,CINP - STARZ ENCORE BLACK
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/8127
+#EXTINF:0,CINP - STARZ ENCORE FAMILY HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/8129
+#EXTINF:0,CINP - STARZ ENCORE SUSPENSE
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/8130
+#EXTINF:0,CINP - SHOTIME WEST HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/8141
+#EXTINF:0,CINP - SHOW TIME HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/8138
+#EXTINF:0,CINP - SHOWTIME BEYOND HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/8139
+#EXTINF:0,CINP - SHOWTIME EAST
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/8140
+#EXTINF:0,CINP - INDIE PLEX
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/8142
+#EXTINF:0,CINP - MORE MAX HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/8143
+#EXTINF:0,CINP - MOVIE MAX
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/8144
+#EXTINF:0,CINP - MOVIEPLEX
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/8145
+#EXTINF:0,CINP - OUTERMAX HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/8146
+#EXTINF:0,CINP - RETROPLEX HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/8147
+#EXTINF:0,PPV - CINEMA 01 FHD (ES)
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/7964
+#EXTINF:0,PPV - CINEMA 02 FHD (ES)
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/7965
+#EXTINF:0,PPV - CINEMA 03 FHD (ES).
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/8007
+#EXTINF:0,PPV - CINEMA 04 FHD (ES).
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/8006
+#EXTINF:0,PPV - CINEMA 05 FHD (ES).
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/8005
+#EXTINF:0,PPV - CINEMA 06 FHD (ES).
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/8004
+#EXTINF:0,PPV - CINEMA 07 FHD (ES).
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/8003
+#EXTINF:0,PPV - CINEMA 08 FHD (ES).
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/8002
+#EXTINF:0,PPV - CINEMA 09 FHD (ES).
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/8001
+#EXTINF:0,PPV - CINEMA 10 FHD (ES).
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/8000
+#EXTINF:0,PPV - CINEMA 11 FHD (ES).
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/7999
+#EXTINF:0,PPV - CINEMA 12 FHD (ES).
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/7998
+#EXTINF:0,PPV - CINEMA 13 FHD (ES).
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/7997
+#EXTINF:0,PPV - CINEMA 14 FHD (ES).
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/7996
+#EXTINF:0,PPV - CINEMA 15 FHD (ES).
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/7995
+#EXTINF:0,PPV - CINEMA 16 FHD (ES).
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/7994
+#EXTINF:0,PPV - CINEMA 17 FHD (ES).
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/7993
+#EXTINF:0,PPV - CINEMA 18 FHD (ES).
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/7992
+#EXTINF:0,PPV - CINEMA 19 FHD (ES).
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/7991
+#EXTINF:0,PPV - CINEMA 20 FHD (ES).
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/7990
+#EXTINF:0,PPV - CINEMA 21 FHD (ES).
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/7989
+#EXTINF:0,PPV - CINEMA 22 FHD (ES).
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/7988
+#EXTINF:0,PPV - CINEMA 23 FHD (ES).
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/7987
+#EXTINF:0,PPV - CINEMA 24 FHD (ES).
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/7986
+#EXTINF:0,PPV - CINEMA 25 FHD (ES).
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/7985
+#EXTINF:0,PPV - CINEMA 26 FHD (ES).
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/7984
+#EXTINF:0,PPV - CINEMA 27 FHD (ES).
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/7983
+#EXTINF:0,PPV - CINEMA 28 FHD (ES).
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/7982
+#EXTINF:0,PPV - CINEMA 29 FHD (ES).
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/7981
+#EXTINF:0,PPV - CINEMA 30 FHD (ES).
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/7980
+#EXTINF:0,PPV - CINEMA 31 FHD (ES).
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/7979
+#EXTINF:0,ARG - VOLVER
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/7978
+#EXTINF:0,PPV - CINEMA 32 FHD (ES).
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/7977
+#EXTINF:0,ARG - LN+
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/7976
+#EXTINF:0,ARG - EL GARAGE TV
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/7975
+#EXTINF:0,ARG - ENCUENTRO
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/7974
+#EXTINF:0,ES - TAQUILLA 2
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3107
+#EXTINF:0,ES - MOVISTAR ESTRENOS
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3147
+#EXTINF:0,ES - MOVISTAR DEPORTE 1 HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3146
+#EXTINF:0,ES - MOVISTAR MOTO GP HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3145
+#EXTINF:0,ES - CANAL DE CASA
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3121
+#EXTINF:0,ES - MOVISTAR COMEDIA
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3143
+#EXTINF:0,ES - CANAL COCINA
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3120
+#EXTINF:0,ES - MOVISTAR  ACTION
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3142
+#EXTINF:0,ES - BOING
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3119
+#EXTINF:0,ES - BEINS SPORTS ESPAÑA
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3118
+#EXTINF:0,ES - B LA LIGA HQ
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3092
+#EXTINF:0,ES - LIGA 123
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3091
+#EXTINF:0,ES - BARÇA TV
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3104
+#EXTINF:0,ES - BABY TV
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3090
+#EXTINF:0,ES - TAQUILLA 3
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3106
+#EXTINF:0,ES - #0 HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3113
+#EXTINF:0,INF - NICKELODEON
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3071
+#EXTINF:0,PERU - CAPITAL TV
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/2172
+#EXTINF:0,PERU - AMERICA TV
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/2174
+#EXTINF:0,CUBA - MARTI TV
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/7688
+#EXTINF:0,PAN - HOSSAN VISION
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/7689
+#EXTINF:0,PAN - TELEMETRO CANAL 13
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/7685
+#EXTINF:0,PERU - PANAMERICANA
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/2171
+#EXTINF:0,CINE - GOLDEN
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3236
+#EXTINF:0,CINE - GOLDEN EDGE
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3237
+#EXTINF:0,ENT -GLITZ
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3238
+#EXTINF:0,ENT -EL GOURMET
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3206
+#EXTINF:0,CINE - FX
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3201
+#EXTINF:0,MyC - DISCOVERY SCIENCE
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3082
+#EXTINF:0,CINE - SPACE
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3232
+#EXTINF:0,CINE - SONY
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3069
+#EXTINF:0,CINE - TNT SERIES
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3218
+#EXTINF:0,ENT -TRU TV
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3231
+#EXTINF:0,PERU - MOVISTAR PLUS
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3398
+#EXTINF:0,MEX - UNICABLE
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3230
+#EXTINF:0,CINE - STUDIO UNIVERSAL
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3229
+#EXTINF:0,US.SP - FIGHT NETWORK
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3427
+#EXTINF:0,US.SP - WWE HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3426
+#EXTINF:0,US.FM - HBO FAMILY
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/8216
+#EXTINF:0,US.FM - HBO
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/8210
+#EXTINF:0,US.FM - HBO 2
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/8222
+#EXTINF:0,US.EN - HGTV
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/8340
+#EXTINF:0,US.FM - BET
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/17416
+#EXTINF:0,US.EN - FOOD NETWORK
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/17413
+#EXTINF:0,US.SP - FS1 HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/17418
+#EXTINF:0,US.ET - GAME SHOW NETWORK
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/17419
+#EXTINF:0,US.FM - ION TV
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/17417
+#EXTINF:0,US.EN - DIY NETWORK
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/17414
+#EXTINF:0,US.EN - VH1
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/17415
+#EXTINF:0,US.SP - BS US
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3379
+#EXTINF:0,US.SP - CYCLING
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3691
+#EXTINF:0,US.FM - CINE SONY
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3704
+#EXTINF:0,US.SP - NBC SPORTS
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3709
+#EXTINF:0,US.SP - BTN
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3750
+#EXTINF:0,US.SP - ELEVEN SPORTS
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3758
+#EXTINF:0,US.SP - NBC GOLF
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3752
+#EXTINF:0,US.WC - MSNBC
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3789
+#EXTINF:0,US.SP - GOL TV ENGLISH
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3756
+#EXTINF:0,MLB - PITTSBURGH PIRATES
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/16134
+#EXTINF:0,MLB - COLORADO ROCKIES
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/16135
+#EXTINF:0,URU - VERA +
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/16136
+#EXTINF:0,MLB - CHICAGO CUBS
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/17181
+#EXTINF:0,ES - CALLE 13 HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/17192
+#EXTINF:0,ES - LA CUATRO
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/17191
+#EXTINF:0,MLB - OAKLAND ATHLETICS
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/17189
+#EXTINF:0,MLB - SAN DIEGO PADRES
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/17186
+#EXTINF:0,MLB - SAN FRANCISCO GIANTS
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/17185
+#EXTINF:0,MLB - TAMP BAY RAYS
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/17184
+#EXTINF:0,MLB - TEXAS RANGERS
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/17183
+#EXTINF:0,MLB - CHICAGO WHITE SOX
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/17182
+#EXTINF:0,NTV - 06 [ EN VIVO]
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/17180
+#EXTINF:0,US.EN - DISCOVERY TURBO
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/17179
+#EXTINF:0,US.EN - COMEDY CENTRAL
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/17178
+#EXTINF:0,US.EN - TRU TV
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/17177
+#EXTINF:0,US.FM - LIFETIME MOVIES
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/17175
+#EXTINF:0,MLB - SEATLE MARINERS
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/17174
+#EXTINF:0,MLB STRIKE ZONE
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/17173
+#EXTINF:0,MLB - ST. LOUIS CARDINALS
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/8173
+#EXTINF:0,LAT - ByN  Ñ.
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3601
+#EXTINF:0,MLB - KANSAS CITY ROYALS
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3349
+#EXTINF:0,MLB - LOS ANGELES DODGERS
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3347
+#EXTINF:0,MLB - NEW YORK YANKEES
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/2131
+#EXTINF:0,MLB - ATLANTE BRAVES
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3602
+#EXTINF:0,MLB - DETROIT TIGERS
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3351
+#EXTINF:0,MLB - RED SOX
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3354
+#EXTINF:0,MLB - LOS ANGELES ANGELS
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3348
+#EXTINF:0,MLB - MIAMI MARLINS
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3346
+#EXTINF:0,MLB - ARIZONA DIAMONDBACKS
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/6023
+#EXTINF:0,MLB - MINNESOTA TWINS
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/4062
+#EXTINF:0,MLB - CINCINNATI REDS
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3593
+#EXTINF:0,ARG - TN
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/18766
+#EXTINF:0,US.FM - TNT
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/18767
+#EXTINF:0,US.FM - HBO EAST
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/18768
+#EXTINF:0,US.FM - HBO COMEDY
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/18769
+#EXTINF:0,US.WC - DISCOVERY SCIENCIE
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/18770
+#EXTINF:0,US.WC - ANIMAL PLANET
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/18771
+#EXTINF:0,US.WC - CNBC WORLD
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3365
+#EXTINF:0,US.FM - AMC
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3357
+#EXTINF:0,US.WC - CBS
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3367
+#EXTINF:0,US.WC - CNN INTERNACIONAL
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3377
+#EXTINF:0,US.SP - TSN SPORT 1 HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3363
+#EXTINF:0,US.SP - TSN SPORT 2 HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3362
+#EXTINF:0,US.SP - TSN SPORT 3 HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3361
+#EXTINF:0,US.SP - TSN SPORT 4 HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3360
+#EXTINF:0,US.SP - TSN SPORTS 5 HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3355
+#EXTINF:0,CINE - WARNER
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3228
+#EXTINF:0,CINE - UNIVERSAL CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3068
+#EXTINF:0,CINE - TCM
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3065
+#EXTINF:0,MUS - TELEHIT
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3064
+#EXTINF:0,PERU - LATINA
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/2165
+#EXTINF:0,ES - MOVISTAR F1 HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3093
+#EXTINF:0,MUS - TELEHIT URBANO
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3960
+#EXTINF:0,LAT - CNN EN ESPAÑOL
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/4014
+#EXTINF:0,INF - DISNEY CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/4004
+#EXTINF:0,ENT -GARAGE TV
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/4016
+#EXTINF:0,CINE - FXM
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/4009
+#EXTINF:0,MyC - H2
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/4005
+#EXTINF:0,NHL - NETWORK
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/4015
+#EXTINF:0,CINE - SYFY
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3958
+#EXTINF:0,CINE - TBS
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/4011
+#EXTINF:0,CINE - TNT
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/4010
+#EXTINF:0,FHD - DISCOVERY HOME & HEALTH
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/4070
+#EXTINF:0,CINE - PARAMOUNT CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/2952
+#EXTINF:0,FHD - A&E HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/4037
+#EXTINF:0,FHD - AXN HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/4038
+#EXTINF:0,FHD - TNT HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/4103
+#EXTINF:0,FHD - E! ENTERTAINMENT
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/4041
+#EXTINF:0,FHD - FOX HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/4022
+#EXTINF:0,FHD - FOX LIFE HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/4043
+#EXTINF:0,FHD - FX HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/4044
+#EXTINF:0,FHD - SONY
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/4048
+#EXTINF:0,FHD - SYFY
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/4049
+#EXTINF:0,FHD - WARNER
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/4053
+#EXTINF:0,FHD - UNIVERSAL CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/4054
+#EXTINF:0,FHD - CINECANAL
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/4068
+#EXTINF:0,CINE - SUNDANCE TV
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/4101
+#EXTINF:0,FHD - DISCOVERY CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/4069
+#EXTINF:0,FHD - DISCOVERY THEATER
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/4073
+#EXTINF:0,FHD - TLC
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/4074
+#EXTINF:0,FHD - DISCOVERY KIDS
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/4072
+#EXTINF:0,MUS - MTV LIVE
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3072
+#EXTINF:0,MUS - MTV LATINO
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3192
+#EXTINF:0,ENT - HOLA TV
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3075
+#EXTINF:0,PERU - GOL PERU FHD
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3605
+#EXTINF:0,FHD - COMEDY CENTRAL
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/4039
+#EXTINF:0,FHD - NICKELODEON
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/4058
+#EXTINF:0,FHD - NAT GEO WILD
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/4079
+#EXTINF:0,FHD - NAT GEO
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/4097
+#EXTINF:0,FHD - BOOMERANG
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/4061
+#EXTINF:0,MyC - FILM & ARTS
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3966
+#EXTINF:0,FHD - HBO 2
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/4095
+#EXTINF:0,ES - ANTENA 3 INT.
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/4108
+#EXTINF:0,FHD - HBO PLUS
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/4109
+#EXTINF:0,FHD - DISNEY JR
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/4111
+#EXTINF:0,FHD - HBO HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/4112
+#EXTINF:0,CINE - AMC
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/4118
+#EXTINF:0,CINE - CINE LATINO
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/4136
+#EXTINF:0,MyC - DISCOVERY ID
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/4123
+#EXTINF:0,MyC - DISCOVERY THEATER
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/4119
+#EXTINF:0,ENT - FOOD NETWORK
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/4146
+#EXTINF:0,CINE - FOX CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/4121
+#EXTINF:0,CINE - CLARO CINEMA
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/4145
+#EXTINF:0,ENT -MAS CHIC
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/4124
+#EXTINF:0,MEX - IMAGEN TV
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/4149
+#EXTINF:0,MEX - TL TELENOVELAS
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/4130
+#EXTINF:0,NTV - 03 [NEWCASTLE UNITED VS LIVERPOOL EN VIVO]
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/358
+#EXTINF:0,MyC - NATGEO
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/4126
+#EXTINF:0,INF - NATGEO KIDS
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/4144
+#EXTINF:0,INF - NICK 2
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/4140
+#EXTINF:0,LD - PX SPORTS
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/4128
+#EXTINF:0,CINE - CINEMA DINAMITA
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/4142
+#EXTINF:0,MEX - TELEFORMULA
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/4129
+#EXTINF:0,ES - CLAN
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/4131
+#EXTINF:0,MUS - VH1
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/4132
+#EXTINF:0,MUS - VH1 CLASSIC
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/4133
+#EXTINF:0,ENT -WOBI
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/4134
+#EXTINF:0,CHILE - CDO BASICO HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3607
+#EXTINF:0,CHILE - CNN CHILE
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3749
+#EXTINF:0,CHILE - 24 HORAS
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/23237
+#EXTINF:0,CHILE - 13C
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3776
+#EXTINF:0,CHILE - REC TV
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/2024
+#EXTINF:0,CHILE - TELETRAK
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3854
+#EXTINF:0,PERU - CANAL N
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/7825
+#EXTINF:0,MUS - MUSIC TOP
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/7823
+#EXTINF:0,MUS - TELERITMO
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/7821
+#EXTINF:0,RADIO - BIG (CHILE)
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/4181
+#EXTINF:0,ES - COSMO
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/4177
+#EXTINF:0,ES - MEZZO LIVE
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/4178
+#EXTINF:0,INF - NICK JUNIOR
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/4194
+#EXTINF:0,PERU - TV PERU
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/2169
+#EXTINF:0,ES - REAL MADRID TV
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3689
+#EXTINF:0,US.FM - NBC
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3687
+#EXTINF:0,US.FM - TELEXITOS
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3701
+#EXTINF:0,INF - BABY TV
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3798
+#EXTINF:0,US.WC - THE WEATHER CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3790
+#EXTINF:0,US.FM - A&E
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3761
+#EXTINF:0,US.FM - BRAVO HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3762
+#EXTINF:0,US.FM - CHILLER
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3763
+#EXTINF:0,US.EN - E! ENTERTAINMENT
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3764
+#EXTINF:0,US.FM - EL REY NETWORK
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3765
+#EXTINF:0,US.WC - ABC
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3788
+#EXTINF:0,US.FM - HALLMARK
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3781
+#EXTINF:0,US.FM - HALLMARK MOVIES & MISTERIES
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3782
+#EXTINF:0,US.WC - HISTORY
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3772
+#EXTINF:0,US.FM - LIFETIME
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3783
+#EXTINF:0,US.SP - TENNIS CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3791
+#EXTINF:0,US.WC - NATGEO
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3773
+#EXTINF:0,US.WC - NATGEO WILD
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3775
+#EXTINF:0,LAT - UNIVERSO
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3757
+#EXTINF:0,US.FM - REVOLT
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3777
+#EXTINF:0,US.FM - USA
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3780
+#EXTINF:0,US.FM - VICELAND
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3792
+#EXTINF:0,PAN - NEXT TV
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/5476
+#EXTINF:0,CR - TD+
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/5474
+#EXTINF:0,RD - TELEUNION
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/5468
+#EXTINF:0,RD - TELEMICRO CANAL 5
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/5471
+#EXTINF:0,RD - TELERADIO AMERICA
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/5472
+#EXTINF:0,RD - TELEUNIVERSO
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/5473
+#EXTINF:0,MYC - DISCOVERY  CIVILIZACIÓN
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/6020
+#EXTINF:0,COVID- 19 WORLD MAP
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/6021
+#EXTINF:0,MEX - UNO MVS TV
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/6022
+#EXTINF:0,PAN - RPC
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/6024
+#EXTINF:0,PAN - TV MAX
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/6025
+#EXTINF:0,ES - MOVISTAR CINE Ñ
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/6026
+#EXTINF:0,ES - MOVISTAR SERIES
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/6027
+#EXTINF:0,PAR - TIGO SPORTS HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/7435
+#EXTINF:0,CINE - PANICO TV HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/7436
+#EXTINF:0,PAR - TIGO SPORTS +
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/7450
+#EXTINF:0,PAR - NOTICIAS PY
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/7428
+#EXTINF:0,PAR - PARAVISION
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/7427
+#EXTINF:0,PAR - RPC
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/7426
+#EXTINF:0,PAR - SNT
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/7425
+#EXTINF:0,PAR - UNICANAL
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/7434
+#EXTINF:0,PAR - C9N
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/7437
+#EXTINF:0,PAR - RCC TV
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/7430
+#EXTINF:0,PAR - TVS
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/7429
+#EXTINF:0,PAR - PARAGUAY TV
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/7423
+#EXTINF:0,PAN - TVN PANAMA
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/7446
+#EXTINF:0,PERU - ATV PLUS
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/7449
+#EXTINF:0,PAR - SUR TV
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/7447
+#EXTINF:0,PAR - TELEFUTURO
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/7529
+#EXTINF:0,SAL - WOW TV
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/5478
+#EXTINF:0,ADULTOS - PPV 01
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3463
+#EXTINF:0,ADULTOS - PPV 02
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3462
+#EXTINF:0,ADULTOS - PPV 03
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3467
+#EXTINF:0,ADULTOS - PPV 04
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3464
+#EXTINF:0,ADULTOS - PPV 05
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3465
+#EXTINF:0,ADULTOS - PPV 06
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3466
+#EXTINF:0,ADULTOS - PPV 07
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/7130
+#EXTINF:0,ADULTOS - PPV 08
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/7129
+#EXTINF:0,ADULTOS - PPV 09
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/7125
+#EXTINF:0,ADULTOS - PPV 10
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/7127
+#EXTINF:0,ADULTOS - PPV 11
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/7128
+#EXTINF:0,LD - TYC SPORTS
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/8247
+#EXTINF:0,FHD - HBO POP
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/8246
+#EXTINF:0,RD - TELEMICRO
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/8245
+#EXTINF:0,RD - TELECENTRO
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/8244
+#EXTINF:0,RD - DIGITAL 15
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/8243
+#EXTINF:0,RD - COLOR VISION
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/8242
+#EXTINF:0,RD - TELEANTILLAS
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/8241
+#EXTINF:0,RD - TELESISTEMA
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/8240
+#EXTINF:0,RD - RNN
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/8239
+#EXTINF:0,FHD - GOLDEN PLUS
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/8255
+#EXTINF:0,FHD - HBO XTREME
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/8226
+#EXTINF:0,PERU - PERU MAGICO
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/8323
+#EXTINF:0,BRA - MEGAPIX
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/8324
+#EXTINF:0,BRA - ARTE 1
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/8328
+#EXTINF:0,PERU - GOL PERU SD
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/8329
+#EXTINF:0,BRA - WOOHOO
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/8327
+#EXTINF:0,PERU - ATV
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/8333
+#EXTINF:0,CUBA - CUBAVISION
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/9841
+#EXTINF:0,CUBA - CUBAVISION INTERNACIONAL
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/9842
+#EXTINF:0,CUBA - MULTIVISION
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/9844
+#EXTINF:0,CUBA - TELEREBELDE
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/9843
+#EXTINF:0,LD - CLARO SPORTS HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/12011
+#EXTINF:0,NTV - 04 [JUVENTUS VS SAMPDORIA EN VIVO]
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/16080
+#EXTINF:0,LD - FOX SPORTS 2 SUR HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/16139
+#EXTINF:0,NTV - 05 [ EN VIVO]
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/16410
+#EXTINF:0,US.SP - VIP GOLF CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/17602
+#EXTINF:0,US.SP - TBS
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/17891
+#EXTINF:0,ENT - FRECUENCIA MUSICAL TV
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/18582
+#EXTINF:0,LD - FOX SPORTS 1 SUR SD
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/18580
+#EXTINF:0,MLB - MILWAKE BREWERS
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/18579
+#EXTINF:0,URU - TELE12 SD
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/18578
+#EXTINF:0,24/7 PEPPA PIG
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/18577
+#EXTINF:0,24/7 EL CHAVO DEL OCHO
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/18576
+#EXTINF:0,MX - APRENDE TV
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/18575
+#EXTINF:0,MX - TV UNAM
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/18574
+#EXTINF:0,A PLUS
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/18573
+#EXTINF:0,LAT - UNIMAS DENVER
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/18572
+#EXTINF:0,MLB - NEW YORK METS
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/18571
+#EXTINF:0,LAT - TELEMUNDO DENVER
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/18570
+#EXTINF:0,MLB - PHILLADELPHIA PHILLIES
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/18569
+#EXTINF:0,LAT - UNIVISION NOTICIAS
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/18568
+#EXTINF:0,NHL - SAN JOSE SHARKS
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/18567
+#EXTINF:0,MLB - BLUE JAYS
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/18566
+#EXTINF:0,LAT - UNIVISION DENVER
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/18565
+#EXTINF:0,LAT - UNIVISION LOS ANGELES
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/18564
+#EXTINF:0,LAT - UNIVISION LAS VEGAS
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/18563
+#EXTINF:0,LAT - UNIVISION SAN FRANCISCO
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/18560
+#EXTINF:0,US.WC - DISCOVERY ID
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/22376
+#EXTINF:0,US.EN - DISCOVERY VELOCITY
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/22375
+#EXTINF:0,US.EN - FASHION TELEVISION
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/22373
+#EXTINF:0,US.EN - O.W.N (oprah winfrey network)
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/22383
+#EXTINF:0,US.EN - OUTDOOR CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/22379
+#EXTINF:0,US.CH - PBS KIDS
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/22378
+#EXTINF:0,US.FM - SHOWCASE
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/22380
+#EXTINF:0,US.FM - SPIKE TV
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/22374
+#EXTINF:0,US.FM - YES TV
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/22382
+#EXTINF:0,US.FM - HBO ZONE
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/22381
+#EXTINF:0,PAR - LA TELE
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/23224
+#EXTINF:0,PAR - FARRA PLAY
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/23221
+#EXTINF:0,PAR - GEN TV
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/23222
+#EXTINF:0,PAR - VENUS RADIO
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/23223
+#EXTINF:0,RADIO - CAROLINA TV (CHILE)
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/23227
+#EXTINF:0,RADIO - ADN (CHILE)
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/23228
+#EXTINF:0,MUS - RETRO TV
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/23235
+#EXTINF:0,MUS - CONCERT CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/23236
+#EXTINF:0,CINE - DHE
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/24180
+#EXTINF:0,BRA - GLOBO RIO
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/7826
+#EXTINF:0,BRA - RECORD PB
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/7770
+#EXTINF:0,BRA - TV GLOBO INT
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/7773
+#EXTINF:0,BRA - GLOBO PREMIUM
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/7774
+#EXTINF:0,FHD - HBO FAMILY
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3211
+#EXTINF:0,COL - WIN SPORTS FHD
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3271
